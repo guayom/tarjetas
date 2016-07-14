@@ -23,8 +23,8 @@ collections:
     - tipo 1
     - tipo 2
     Edad de cliente:
-      Mínima: 
-      Máxima: 
+      Mínima: 21
+      Máxima: 65
     Tiempo de entrega promedio: 2 Semanas
   uploads:
     title: Uploads
