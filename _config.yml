@@ -1,15 +1,5 @@
-# Site settings
+---
 title: Tarjetas Credomatic
-email: emenaalt@credomatic.com
-description: > # Listado de características para las tarjetas de credomatic
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  guayom
-
-# Build settings
-markdown: kramdown
-
-#Siteleaf
 timezone: America/Guatemala
 collections:
   posts:
@@ -30,4 +20,10 @@ defaults:
     type: pages
   values:
     layout: page
+email: emenaalt@credomatic.com
+description: ''
+baseurl: ''
+url: http://yourdomain.com
+github_username: guayom
+markdown: kramdown
 permalink: pretty
