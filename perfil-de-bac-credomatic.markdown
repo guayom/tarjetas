@@ -4,6 +4,7 @@ date: 2016-07-14 17:14:00 -06:00
 ---
 
 # NUESTRA HISTORIA
+
 ## Historia del Grupo Financiero BAC CREDOMATIC
  
 Los inicios del Grupo BAC Credomatic se remontan a más de medio siglo atrás, cuando en 1952 se fundó el Banco de América, en Nicaragua. Sin embargo, no fue sino hasta los años setenta cuando se incursionó en el negocio de tarjetas de crédito  mediante las empresas Credomatic.
