@@ -8,6 +8,24 @@ collections:
   tarjetas-de-credito:
     title: Tarjetas de Crédito
     output: true
+    Uso principal de esta tarjeta:
+    - Compras
+    - Compras Online
+    - Avance de efectivo
+    - Compra de cartera
+    - Todas
+    Beneficios de esta tarjeta (Plan de lealtad):
+    - Millas
+    - Puntos
+    - Descuentos
+    - Otros Beneficios: 
+    Tipo de cliente que financian:
+    - tipo 1
+    - tipo 2
+    Edad de cliente:
+      Mínima: 
+      Máxima: 
+    Tiempo de entrega promedio: 2 Semanas
   uploads:
     title: Uploads
     output: true
