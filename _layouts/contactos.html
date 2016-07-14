@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <ul>
+    {% for persona in page.personas %}
+      <li>
+        <h2>
+          <strong>{{ persona.Nombre }} {{ persona.Apellido }}</strong>
+          <br/>
+          <small>{{ persona.Puesto }}</small>
+        </h2>
+        <p>
+          {{ persona.Email }}
+          <br/>
+          {{ persona.oficina }}<br/>
+          {{ persona.celular }}
+      </li>
+    {% endfor %}
+  </ul>
+
+</article>
