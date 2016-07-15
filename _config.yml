@@ -9,6 +9,7 @@ collections:
     title: Tarjetas
     output: true
     permalink: "/tarjetas/:path.html"
+    test: hola
   uploads:
     title: Uploads
     output: true
