@@ -9,7 +9,6 @@ collections:
     title: Tarjetas
     output: true
     permalink: "/tarjetas/:path"
-    testingfield: yeah
   uploads:
     title: Uploads
     output: true
