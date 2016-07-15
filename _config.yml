@@ -9,12 +9,6 @@ collections:
     title: Tarjetas
     output: true
     permalink: "/tarjetas/:path"
-    uso:
-    - Compras
-    - Compras Onine
-    - Avance de efectivo
-    - Compra de cartera
-    - Todas
     testingfield: yeah
   uploads:
     title: Uploads
