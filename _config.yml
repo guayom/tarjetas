@@ -8,7 +8,7 @@ collections:
   tarjetas:
     title: Tarjetas
     output: true
-    permalink: "/tarjetas/:path"
+    permalink: "/tarjetas/:path.html"
   uploads:
     title: Uploads
     output: true
@@ -29,6 +29,12 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: tarjetas
+  values:
+    layout: tarjetas
+    test: testing field
 email: emenaalt@credomatic.com
 description: ''
 baseurl: ''
