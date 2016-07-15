@@ -8,6 +8,7 @@ collections:
   tarjetas:
     title: Tarjetas
     output: true
+    permalink: "/tarjetas/:path"
     uso:
     - Compras
     - Compras Onine
