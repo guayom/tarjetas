@@ -15,7 +15,7 @@ collections:
   test:
     title: test
     output: true
-    permalink: "/test/:path"
+    permalink: "/test/:path.html"
 defaults:
 - scope:
     path: ''
