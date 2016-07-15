@@ -15,6 +15,7 @@ collections:
   test:
     title: test
     output: true
+    permalink: tests
 defaults:
 - scope:
     path: ''
