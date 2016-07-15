@@ -8,6 +8,12 @@ collections:
   tarjetas:
     title: Tarjetas
     output: true
+    uso:
+    - Compras
+    - Compras Onine
+    - Avance de efectivo
+    - Compra de cartera
+    - Todas
   uploads:
     title: Uploads
     output: true
