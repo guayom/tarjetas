@@ -1,0 +1,27 @@
+<div class="intereses">
+  <h3>Tasa de interés</h3>
+  <table>
+    <tbody>
+      {% for interes in site.data.generales.intereses %}
+        <tr>
+          <td>
+            {{ interes[0] | capitalize }}
+          </td>
+        </tr>
+        {% for periodo in interes[1] %}
+          <tr>
+            <td>
+              {{ periodo[0] | capitalize }}
+              {{ periodo }}
+            </td>
+          </tr>
+        {% endfor %}
+
+      {% endfor %}
+    <tbody>
+  </table>
+
+  <p class="disclaimer">
+    Tasa preferencial aplica siempre y cuando el cliente esté al día. En caso de atraso se suspende por 6 meses.
+  </p>
+</div>
