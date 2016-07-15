@@ -15,6 +15,7 @@ collections:
     - Avance de efectivo
     - Compra de cartera
     - Todas
+    testingfield: yeah
   uploads:
     title: Uploads
     output: true
