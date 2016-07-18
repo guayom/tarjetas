@@ -35,7 +35,7 @@ defaults:
     type: tarjetas
   values:
     layout: tarjetas
-    color: clasica
+    tipo: ["Clásica", "Dorada", "Platino", "Black", "Infinite"]
     uso: ["Compras", "Compras Online", "Avance de efectivo", "Compra de Cartera", "Todas"]
 email: emenaalt@credomatic.com
 description: ''
