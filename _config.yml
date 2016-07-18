@@ -37,6 +37,14 @@ defaults:
     layout: tarjetas
     tipo: ["Clásica", "Dorada", "Platino", "Black", "Infinite"]
     uso: ["Compras", "Compras Online", "Avance de efectivo", "Compra de Cartera", "Todas"]
+    lealtad: ["Millas", "Puntos", "Cashback", "Descuentos", "Otros Beneficios"]
+    forma_de_acumulacion:
+    otros_beneficios:
+    tipo_de_cliente: ["Asalariado", "Independiente", "Ambos"]
+    cargo_administrativo:
+    anualidad:
+    reto_de_facturacion:
+
 email: emenaalt@credomatic.com
 description: ''
 baseurl: ''

@@ -38,6 +38,12 @@ intereses:
         dorada: 30.00
         platino: 30.00
 
+edades:
+  minima: 21
+  maxima: 68
+
+tiempo_promedio_de_entrega: 2 semanas
+
 requisitos:
   - Cédula de identidad.
   - Comprobante de dirección física.
