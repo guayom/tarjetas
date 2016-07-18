@@ -35,7 +35,8 @@ defaults:
     type: tarjetas
   values:
     layout: tarjetas
-    test: testing field
+    color: clasica
+    uso: ["Compras", "Compras Online", "Avance de efectivo", "Compra de Cartera", "Todas"]
 email: emenaalt@credomatic.com
 description: ''
 baseurl: ''
