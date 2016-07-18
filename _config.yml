@@ -36,7 +36,12 @@ defaults:
   values:
     layout: tarjetas
     color: clasica
-    uso: ["Compras", "Compras Online", "Avance de efectivo", "Compra de Cartera", "Todas"]
+    uso:
+    - Compras
+    - Compras Online
+    - Avance de efectivo
+    - Compra de Cartera
+    - Todas
 email: emenaalt@credomatic.com
 description: ''
 baseurl: ''
