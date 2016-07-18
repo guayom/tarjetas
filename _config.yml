@@ -44,7 +44,6 @@ defaults:
     cargo_administrativo:
     anualidad:
     reto_de_facturacion:
-
 email: emenaalt@credomatic.com
 description: ''
 baseurl: ''
