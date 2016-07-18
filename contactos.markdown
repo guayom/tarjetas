@@ -17,8 +17,7 @@ personas:
   celular: 7070 4951
 - Nombre: Karla
   Apellido: Mora Téllez
-  Puesto: 
+  Puesto: Oficial de gestiones
   Email: kmorat@credomatic.com
   oficina: 2202300 ext 43969
 ---
-
