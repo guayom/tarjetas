@@ -35,12 +35,12 @@ defaults:
     type: tarjetas
   values:
     layout: tarjetas
-    tipo: ["Clásica", "Dorada", "Platino", "Black", "Infinite"]
-    uso: ["Compras", "Compras Online", "Avance de efectivo", "Compra de Cartera", "Todas"]
-    lealtad: ["Millas", "Puntos", "Cashback", "Descuentos", "Otros Beneficios"]
+    tipo:
+    uso:
+    lealtad:
     forma_de_acumulacion:
     otros_beneficios:
-    tipo_de_cliente: ["Asalariado", "Independiente", "Ambos"]
+    tipo_de_cliente:
     cargo_administrativo:
     anualidad:
     reto_de_facturacion:
