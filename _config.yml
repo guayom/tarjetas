@@ -35,6 +35,7 @@ defaults:
     type: tarjetas
   values:
     layout: tarjetas
+    marca:
     principal_beneficio:
     otros_beneficios:
     tipo:
