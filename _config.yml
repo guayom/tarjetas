@@ -35,15 +35,17 @@ defaults:
     type: tarjetas
   values:
     layout: tarjetas
-    tipo: 
-    uso: 
-    lealtad: 
-    forma_de_acumulacion: 
-    otros_beneficios: 
-    tipo_de_cliente: 
-    cargo_administrativo: 
-    anualidad: 
-    reto_de_facturacion: 
+    principal_beneficio:
+    otros_beneficios:
+    tipo:
+    uso:
+    lealtad:
+    forma_de_acumulacion:
+    tipo_de_cliente:
+    cargo_administrativo:
+    anualidad:
+    reto_de_facturacion:
+    requisitos:
 email: emenaalt@credomatic.com
 description: ''
 baseurl: ''
