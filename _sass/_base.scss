@@ -107,3 +107,12 @@ header{
   margin: 0;
   padding: 0;
 }
+
+dl{
+  dt{
+    font-weight: bold;
+  }
+  dd{
+    margin-bottom: 10px;
+  }
+}
