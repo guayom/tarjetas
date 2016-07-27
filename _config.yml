@@ -5,7 +5,7 @@ timezone: America/Guatemala
 email: emenaalt@credomatic.com
 description: 'Sitio para tarjetas de Credomatic'
 baseurl: ''
-url: http://yourdomain.com
+url: https://guayom.github.io
 github_username: guayom
 markdown: kramdown
 permalink: pretty
