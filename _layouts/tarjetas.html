@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Tarjeta {{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+
+    <dl>
+      <dt>Tipo de tarjeta</dt>
+      <dd>{{ page.color }}</dd>
+
+      <dt>Uso principal de esta tarjeta de crédito.</dt>
+      <dd>{{ page.uso }}</dd>
+
+      <dt>Beneficios de esta tarjeta (plan de lealtad).</dt>
+      <dd>{{ page.lealtad }}</dd>
+
+      <dt>Acumulación de puntos</dt>
+      <dd>{{ page.forma_de_acumulacion }}</dd>
+
+      <dt>Tipo de cliente al que financia</dt>
+      <dd>{{ page.tipo_de_cliente }}</dd>
+
+      <dt>Edad mínima para aplicar para esta tarjeta</dt>
+      <dd>{{ site.data.generales.edades.minima }}</dd>
+
+      <dt>Edad máxima para aplicar para esta tarjeta</dt>
+      <dd>{{ site.data.generales.edades.maxima }}</dd>
+
+      <dt>Tiempo promedio de entrega una vez que se cuente con todos los requisitos.</dt>
+      <dd>{{ site.data.generales.tiempo_promedio_de_entrega }}</dd>
+
+      <dt>Cargo administrativo mensual</dt>
+      <dd>{{ page.cargo_administrativo }}</dd>
+
+      <dt>Cargo de anulaidad<dt>
+      <dd>{{ page.anualidad }}</dd>
+
+      <dt>Reto de facturación</dt>
+      <dd>{{reto_de_facturacion}}</dd>
+    </dl>
+
+    {% include intereses.html %}
+
+  </div>
+
+</article>

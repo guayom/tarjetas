@@ -1,0 +1,50 @@
+intereses:
+  preferencial:
+    mensual:
+      colones:
+        clasica: 3.84
+        dorada: 3.70
+        platino: 3.70
+      dolares:
+        clasica: 2.75
+        dorada: 2.50
+        platino: 250
+    anual:
+      colones:
+        clasica: 46.08
+        dorada: 44.40
+        platino: 44.40
+      dolares:
+        clasica: 33.00
+        dorada: 30.00
+        platino: 30.00
+  normal:
+    mensual:
+      colones:
+        clasica: 4.16
+        dorada: 4.16
+        platino: 4.16
+      dolares:
+        clasica: 2.75
+        dorada: 2.50
+        platino: 250
+    anual:
+      colones:
+        clasica: 49.92
+        dorada: 49.92
+        platino: 49.92
+      dolares:
+        clasica: 33.00
+        dorada: 30.00
+        platino: 30.00
+
+edades:
+  minima: 21
+  maxima: 68
+
+tiempo_promedio_de_entrega: 2 semanas
+
+requisitos:
+  - Cédula de identidad.
+  - Comprobante de dirección física.
+  - Comprobante de ingresos.

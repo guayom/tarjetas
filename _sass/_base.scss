@@ -1,0 +1,104 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, figure {
+    margin: 0;
+    padding: 0;
+}
+
+/**
+ * Reset some basic elements
+ * http://chrisnager.github.io/ungrid/
+ */
+@media(min-width:30em){.row{width:100%;display:table;table-layout:fixed}.col{display:table-cell}}
+
+*{
+  font-family: $base-font-family;
+}
+
+.container{
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+
+  &:before{
+    display: table;
+    content: " ";
+  }
+}
+
+//Elementos generales
+.site-title, .site-title:visited{
+  text-decoration: none;
+  h1{
+    color: $gris_oscuro;
+  }
+}
+//Secciones
+
+header{
+  padding: 40px 0;
+}
+
+.site-nav{
+  background: $gris_oscuro;
+  padding: $global-spacing;
+  margin-bottom: $global-spacing*3;
+  a, &:visited{
+    color: $blanco;
+    text-decoration: none;
+    &:hover{
+      color: $gris_claro;
+    }
+    &:after{
+      content: ' | ';
+      color: $blanco;
+      font-size: 15px;
+      padding: 0 10px;
+    }
+    &:last-child:after{
+      content: '';
+      display: none;
+    }
+  }
+}
+
+.site-footer{
+  background: $gris_oscuro;
+  color: $blanco;
+  padding: $global-spacing;
+  margin-top: $global-spacing*3;
+
+  ul{
+    list-style: none;
+    li{
+      display: inline-block;
+      a{
+        color: $blanco;
+        text-decoration: none;
+        font-size: 15px;
+        &:hover{
+          color: blanco;
+        }
+      }
+      &:after{
+        content: ' | ';
+        color: $blanco;
+        font-size: 15px;
+        padding: 0 10px;
+      }
+      &:last-child:after{
+        content: '';
+        display: none;
+      }
+    }
+  }
+  .footer-description{
+    margin-top: 10px;
+    color: $gris_medio;
+    font-size: 12px;
+  }
+}

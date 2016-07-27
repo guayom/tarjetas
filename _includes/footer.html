@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="container">
+    <nav class="container">
+      <ul class="contact-list">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <li>
+            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="footer-description">
+      <p>{{ site.description }}</p>
+    </div>
+  </div>
+</footer>

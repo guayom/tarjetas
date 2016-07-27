@@ -1,0 +1,19 @@
+---
+title: Tarjetas Credomatic
+timezone: America/Guatemala
+
+email: emenaalt@credomatic.com
+description: 'Sitio para tarjetas de Credomatic'
+baseurl: ''
+url: http://yourdomain.com
+github_username: guayom
+markdown: kramdown
+permalink: pretty
+
+#Page Generator
+page_gen:
+  - data: contentful.spaces.tarjetas
+    template: <<name of the template to use to generate the page>>
+    name: <<field used to generate the filename>>
+    dir: <<directory in which files are to be generated>>
+    extension: <<extension used to generate the filename>>

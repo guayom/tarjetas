@@ -1,0 +1,45 @@
+<div class="intereses">
+  <h3>Tasa de interés</h3>
+  <table>
+    <thead>
+      <tr>
+        <td>Tipo de tasa</td>
+        <td>Periodo</td>
+        <td>Colones</td>
+        <td>Dólares</td>
+      </tr>
+    </thead>
+  </table>
+  <table>
+    <tbody>
+      <tr>
+        <td>Preferencial</td>
+        <td>Mensual</td>
+        <td>{{ site.data.generales.intereses.preferencial.mensual.colones[page.color] }}</td>
+        <td>{{ site.data.generales.intereses.preferencial.mensual.dolares[page.color] }}</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Anual</td>
+        <td>{{ site.data.generales.intereses.preferencial.anual.colones[page.color] }}</td>
+        <td>{{ site.data.generales.intereses.preferencial.anual.dolares[page.color] }}</td>
+      </tr>
+      <tr>
+        <td>Normal</td>
+        <td>Mensual</td>
+        <td>{{ site.data.generales.intereses.normal.mensual.colones[page.color] }}</td>
+        <td>{{ site.data.generales.intereses.normal.mensual.colones[page.color] }}</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Anual</td>
+        <td>{{ site.data.generales.intereses.normal.mensual.dolares[page.color] }}</td>
+        <td>{{ site.data.generales.intereses.normal.mensual.dolares[page.color] }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="disclaimer">
+    Tasa preferencial aplica siempre y cuando el cliente esté al día. En caso de atraso se suspende por 6 meses.
+  </p>
+</div>
