@@ -3,204 +3,102 @@
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+dl, dd, ol, figure {
     margin: 0;
     padding: 0;
 }
 
-
-
 /**
- * Basic styling
+ * Reset some basic elements
+ * http://chrisnager.github.io/ungrid/
  */
-body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
+@media(min-width:30em){.row{width:100%;display:table;table-layout:fixed}.col{display:table-cell}}
+
+*{
+  font-family: $base-font-family;
 }
 
+.container{
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
 
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  &:before{
+    display: table;
+    content: " ";
+  }
 }
 
+//Elementos generales
+.site-title, .site-title:visited{
+  text-decoration: none;
+  h1{
+    color: $gris_oscuro;
+  }
+}
+//Secciones
 
-
-/**
- * Images
- */
-img {
-    max-width: 100%;
-    vertical-align: middle;
+header{
+  padding: 40px 0;
 }
 
-
-
-/**
- * Figures
- */
-figure > img {
-    display: block;
-}
-
-figcaption {
-    font-size: $small-font-size;
-}
-
-
-
-/**
- * Lists
- */
-ul, ol {
-    margin-left: $spacing-unit;
-}
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
-
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
-}
-
-
-
-/**
- * Links
- */
-a {
-    color: $brand-color;
+.site-nav{
+  background: $gris_oscuro;
+  padding: $global-spacing;
+  margin-bottom: $global-spacing*3;
+  a, &:visited{
+    color: $blanco;
     text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
+    &:hover{
+      color: $gris_claro;
     }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
+    &:after{
+      content: ' | ';
+      color: $blanco;
+      font-size: 15px;
+      padding: 0 10px;
     }
-}
-
-
-
-/**
- * Blockquotes
- */
-blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
-
-    > :last-child {
-        margin-bottom: 0;
+    &:last-child:after{
+      content: '';
+      display: none;
     }
+  }
 }
 
+.site-footer{
+  background: $gris_oscuro;
+  color: $blanco;
+  padding: $global-spacing;
+  margin-top: $global-spacing*3;
 
-
-/**
- * Code formatting
- */
-pre,
-code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
-}
-
-code {
-    padding: 1px 5px;
-}
-
-pre {
-    padding: 8px 12px;
-    overflow-x: auto;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
-}
-
-
-
-/**
- * Wrapper
- */
-.wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
-}
-
-
-
-/**
- * Clearfix
- */
-%clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-}
-
-
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
+  ul{
+    list-style: none;
+    li{
+      display: inline-block;
+      a{
+        color: $blanco;
+        text-decoration: none;
+        font-size: 15px;
+        &:hover{
+          color: blanco;
         }
+      }
+      &:after{
+        content: ' | ';
+        color: $blanco;
+        font-size: 15px;
+        padding: 0 10px;
+      }
+      &:last-child:after{
+        content: '';
+        display: none;
+      }
     }
+  }
+  .footer-description{
+    margin-top: 10px;
+    color: $gris_medio;
+    font-size: 12px;
+  }
 }

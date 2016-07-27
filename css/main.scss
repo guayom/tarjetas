@@ -14,13 +14,18 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+//Colores
+$rojo: #F45352;
+$dorado: #9A877A;
+$azul_oscuro: #394457;
+$azul_medio: #49566A;
+$gris_oscuro: #6D6E71;
+$gris_medio: #A6A5AA;
+$gris_claro: #F1F1F1;
+$blanco: #ffffff;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+//Colore de texto
+$text-color: #5F5F5F;
 
 // Width of the content area
 $content-width:    800px;
@@ -28,6 +33,9 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+//spacings:
+
+$global-spacing: 20px;
 
 
 // Use media queries like this:
@@ -46,8 +54,4 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import "base";

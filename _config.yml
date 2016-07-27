@@ -1,56 +1,19 @@
 ---
 title: Tarjetas Credomatic
 timezone: America/Guatemala
-collections:
-  posts:
-    title: Posts
-    output: true
-  tarjetas:
-    title: Tarjetas
-    output: true
-    permalink: "/tarjetas/:path.html"
-    test: hola
-  uploads:
-    title: Uploads
-    output: true
-  test:
-    title: test
-    output: true
-    permalink: "/test/:path.html"
-    hi: hjhjh
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: tarjetas
-  values:
-    layout: tarjetas
-    marca:
-    principal_beneficio:
-    otros_beneficios:
-    tipo:
-    uso:
-    lealtad:
-    forma_de_acumulacion:
-    tipo_de_cliente:
-    cargo_administrativo:
-    anualidad:
-    reto_de_facturacion:
-    requisitos:
+
 email: emenaalt@credomatic.com
-description: ''
+description: 'Sitio para tarjetas de Credomatic'
 baseurl: ''
 url: http://yourdomain.com
 github_username: guayom
 markdown: kramdown
 permalink: pretty
+
+#Page Generator
+page_gen:
+  - data: contentful.spaces.tarjetas
+    template: <<name of the template to use to generate the page>>
+    name: <<field used to generate the filename>>
+    dir: <<directory in which files are to be generated>>
+    extension: <<extension used to generate the filename>>

@@ -1,0 +1,1361 @@
+---
+tarjetas:
+- sys:
+    id: d3B292hzoI0g8iiKy4EOA
+  nombre: Puntos Credomatic Clásica Dorada Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: Hasta 3 puntos por $1 de compra
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 5PlaMeORIAKCMMiQKQGm0i
+  nombre: CashBack de Credomatic Dorada Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje ¢15.000 CashBack
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+- sys:
+    id: 5dFPKNJCmQkqEowi4YwMay
+  nombre: Puntos Credomatic Dorada Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: Hasta 3 puntos por cada $1 de compra
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 22g0QnLEJWOumUoCkS2Cgs
+  nombre: CashBack de Credomatic Platino Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: ''
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 2TtoMVEDDy06EaIayMQ6aA
+  nombre: Gane Premios de Credomatic Dorada Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "\"Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta
+    66 meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para
+    realizar su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: tzr25qpB604eOSO6IU0Ek
+  nombre: Gane Premios de Credomatic Clásica Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "\"Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta
+    66 meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para
+    realizar su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 4GEHHT1DEc2ye0UmMskm8g
+  nombre: Gane Premios de Credomatic Dorada American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
+    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
+    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 6DQuaEJR0AkQA4iIs2EkC4
+  nombre: MasterCard Black®
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: 430PSmMK4MWqgG84gywwwS
+  beneficio:
+  - Puntos
+  - Otros Beneficios
+  breveDescripcion: 'Disfrute de sus compras y acumule puntos Credomatic con tope
+    revolvente,  más los beneficios exclusivos de Master Card: concierge, valet parking,
+    fila preferencial en migración, aduanas del aeropuerto Santamaría y otros.'
+  beneficiosGenerales: |-
+    Priority Pass
+    MasterCard Black Concierge
+    Valet Parking en Multiplaza Escazú
+    Valet Parking en Avenida Escazú
+    Fila preferencial MasterCard Black en el aeropuerto Juan Santamaría
+  modalidadDeAcumulacion: "3 puntos supermercados.\n2 puntos farmacias.\n1 punto comidas
+    rápidas, restaurantes, gasolineras, ropa,  zapaterías y tiendas por departamento.\n\n35.000
+    - 75.000 Puntos \nVencimiento 24 meses móviles"
+  otrosBeneficios: |-
+    Beneficios MasterCard Black
+    Servicio de Asistencia en Viajes
+    MasterAssist Black
+    Master Travel
+    Protección Inconvenientes de Viajes & Equipajes
+    Entre otro muchos más (http://www.mastercard.com/cr/personal/es/findacard/credit_black.html)
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 332NzGcpfW6GyIcKiUiMA6
+  nombre: CashBack de Credomatic Dorada American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: ''
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+- sys:
+    id: 7EcU3GlhugiKyYUecGMsgO
+  nombre: La Tarjeta Platinum de American Express (GRCC)
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Millas
+  - Otros Beneficios
+  breveDescripcion: Con esta tarjeta puede disfrutar de todos los beneficios de Membership
+    Rewards®, como trasladar puntos a socios internacionales, o redimirlos en viajescredomatic.com.
+    Es libre de anualidad por administración de cuenta.
+  beneficiosGenerales: |-
+    Acumulación de 1 milla por dólar
+    Traslados de puntos a socios internacionales
+    Delta SkyMiles®
+    SPG Starwood Preferred Guest®
+    LifeMiles®
+    Iberia Plus ®
+    Hilton HHonors®
+  modalidadDeAcumulacion: |-
+    15.000 Puntos Membership Rewards® Mensuales
+    Máximo 180.000 puntos Membership Rewards®
+    No hay mínimo de redención
+  otrosBeneficios: |-
+    Traslado de puntos a convenios con socios comerciales
+    Acceso a sala Santamaría VIP
+    Servicio concierge Travel & Living
+
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 3JA3lkASzKWgQ0UW0q84qA
+  nombre: Gane Premios de Credomatic Platino Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
+    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
+    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 571Tkko5igW8KeGoq4swsq
+  nombre: Puntos Credomatic Platino American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: Hasta 3 puntos por $1 de compra
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 5NwBFECd5SgaIqm6mOUm6E
+  nombre: CashBack Premium de Credomatic
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: 4C5NkGks8EcKSacGgOAwA4
+  beneficio:
+  - Cashback
+  breveDescripcion: "CashBack Premium le brinda la distinción que esta buscando a
+    la vez que le brinda el beneficio de retorno de efectivo por las compras realizadas
+    tanto dentro como fuera del país. Con porcentajes de devolución que van desde
+    1% hasta 5% dependiendo del comercio.\n \nAl realizar una compra acumule colones
+    CashBack Premium que podrá canjear para el pago de su tarjeta, ahorrarlos, en
+    efectivo o utilizarlos en Credomatic Turismo.\n\n__¿Para quién es?__\nTarjetahabientes
+    a quienes le gusta comprar en forma segura y práctica,  y acumular dinero por
+    las compras realizadas."
+  principalBeneficio: 5% de CashBack en Supermecados, Restaurantes, Farmacias & Comidas
+    Rápidas, 2% de CashBack en Gasolineras, 1% de CashBack en los demas Comercios
+  beneficiosGenerales: |-
+    5% de CashBack en Supermecados, Restaurantes, Farmacias & Comidas Rápidas
+    2% de CashBack en Gasolineras
+    1% de CashBack en los demas Comercios
+    Ingreso a Sala VIP Juan Santamaría
+    Acceso a servicio Concierge Travel & Living
+    Servicio Personalizado & Preferencias en Sucursales BAC Credomatic
+  modalidadDeAcumulacion: Máximo ¢1.500.000 de CashBack Anuales
+  otrosBeneficios: |
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 56dNpxl26coC48Ikcikmk8
+  nombre: Gane Premios de Credomatic Platino American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
+    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
+    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 75dl21nxuMIEs0UqOcIEQ2
+  nombre: CashBack de Credomatic Clásica American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: ''
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+- sys:
+    id: 5U5gxIOv4IiGa6QuUIYgee
+  nombre: The Platinum Card de American Express Credomatic (RCP)
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Millas
+  breveDescripcion: Es una tarjeta con beneficios de clase mundial, una de las tarjetas
+    más prestigiosas del mundo. La única con acceso Premium a la Sala VIP del aeropuerto
+    Santamaría. Las millas pueden trasladarse a programas de lealtad de socios internacionales
+    como cadenas de hoteles y aerolíneas.
+  beneficiosGenerales: "Acumulación de 1 milla por dólar \nTraslados de puntos a socios
+    internacionales\nDelta SkyMiles®\nSPG Starwood Preferred Guest®\nLifeMiles®\nIberia
+    Plus ®\nHilton HHonors®"
+  otrosBeneficios: "Traslado gratis al aeropuerto, 12 eventos anuales por un máximo
+    de $30\nVIP Lounge: acceso exclusivo para clientes American Express\nDescuentos
+    y beneficios en preventas de eventos  como fórmula 1, tribecca film y circo del
+    sol  \nValet parking en el hotel Intercontinental\nDescuentos y amenidades en
+    Blomindales       \nAmex Vacations: paquetes personalizados de viajes: Disney,
+    cruceros, hoteles, alquiler de vehículo y excursiones\nUp grade, registro de entrada
+    temprano y salida tarde, desayuno para dos personas, otras amenidades en Fine
+    Hotels & Resorts, Small Luxury Hotels, Design Hotels, Relais & Chateaux, Sofitel\nCrédito
+    a bordo, obsequio de bienvenida, otras amenidades En Silversea Cruises, Crystal
+    Cruises, Regent Seven Seas, Holland America Line\nClub Carlson - Gold Elite Status:
+    Ascenso de categoría de habitación; 50% de puntos de bonificación en cada estadía
+    elegible; 2.000 puntos de bonificación por reservas en línea en clubcarlson.com\nPriority
+    Pass, Delta, Airspace, The Centurion lounges.\nDiamond Air: Servicio Meet & Greet,
+    precios preferenciales  a 50 + lugares,  un descuento del 15%  en lugares participantes.\nJets
+    Privados: Crédito automático de US$800 (o su equivalente local) por vuelo, mejor
+    precio de garantía con: Air Partner, Le Bas International Y Air Charter Service\nCarey
+    Limos: 15% de descuento en tarifas estándar minoristas Carey.\nHertz: Membresia
+    Herzt Gold Rewards FIVE STAR, hasta 15% de descuento sobre las tarifas estándar
+    y hasta 25% de descuento sobre las tarifas de Prestige Collection, ascenso de
+    categoría, check-in express y hasta 4 horas de plazo de gracia.\nAvis: Membresía
+    Avis Preferred, Avis Fast Track, ascenso de categoría, hasta 15% descuento sobre
+    las tarifas estándar\nPrograma De Restaurantes: Ofertas especiales en más de 400
+    restaurantes en 60+ destinos alrededor del mundo: 20% de descuento en el resumen
+    de su factura, plato de entrada de cortesía, botella de vino de cortesía, postre
+    de cortesía.\nUniversal Orlando: Compras: 10% de descuento al comprar un mínimo
+    de US$50 o 15% de descuento al comprar un mínimo de US$75 en mercadería en Universal
+    Orlando.  Alimentos y Bebidas: 10% de descuento en alimentos y bebidas.\nPrograma
+    De Compras: Key To Madison Avenue, Thomas Pink, Barneys New York, Donna Karan,
+    Printemps,Forzieri, Matches Fashion\nPersonal Shopper: Inside de información privilegiada
+    y el acceso a oportunidades de compras únicas disponibles en Londres, New York,
+    Miami, Hong Kong, Sydney y Paris."
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: "$200 Titular, $125 Adicional. Reto de Facturación $500 ($17
+    de cargo)"
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 3xtwzMOtP26ogqgmqWEuQ2
+  nombre: Puntos Credomatic Platino Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: Hasta 3 Puntos por cada $1 de compra
+  beneficiosGenerales: |
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 53vd5wXk0McGwC2ugUgcmm
+  nombre: CashBack de Credomatic Dorada Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: ''
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 3vhmzJWR1mcSuOmOKGmSmU
+  nombre: CashBack de Credomatic Platino Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+- sys:
+    id: 1m7q8d7JqoygGAcmoCMoy
+  nombre: Puntos Credomatic Clásica American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: Hasta 3 puntos por $1 de compra
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 2AGgizcxpmOuiQuEyWoYK6
+  nombre: Puntos Credomatic Dorada Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "\n3 Puntos por cada $1 en Supermercados \n2 Puntos por
+    cada $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000
+    Puntos \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: tfk3JOAGYKi8CoIoKIgoI
+  nombre: Gane Premios de Credomatic Platino Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "\"Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta
+    66 meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para
+    realizar su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 5LlEn5wb4cMCaUKY8o2Uq0
+  nombre: Gane Premios de Credomatic Dorada Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
+    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
+    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 25PCe0Z9Q8UOEAe2gEW0Cc
+  nombre: CashBack de Credomatic Clásica Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+- sys:
+    id: 1LDJjUFVWcEwyqgEicwKk2
+  nombre: Gane Premios de Credomatic Clásica American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
+    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
+    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 1Xp2aIFBkkOmmE0GuOswag
+  nombre: CashBack de Credomatic Platino American Express
+  marca:
+    sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: ''
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+- sys:
+    id: 2UOl7WwE64MqQu8AwiwEa4
+  nombre: CashBack de Credomatic Clásica Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Cashback
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  principalBeneficio: ''
+  beneficiosGenerales: |-
+    Acceso a Preventa en Eventos Credomatic
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 6mfvcBce0Egoe2uAIiQSaW
+  nombre: Puntos Credomatic Clásica Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 2gVjmzs7sssyWgYw64AuKI
+  nombre: Puntos Credomatic Clásica Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 14cpQUQBS0gm04MOweyeeO
+  nombre: Puntos Credomatic Platino Mastercard
+  marca:
+    sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+  categoria:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+  beneficio:
+  - Puntos
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  beneficiosGenerales: |-
+    Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    Hasta 66 meses de financiamiento.
+    Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    Acceso a las promociones.
+    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
+    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  otrosBeneficios: ''
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+- sys:
+    id: 7hh3592hpKaiSguCwqMOKk
+  nombre: Gane Premios de Credomatic Clásica Visa
+  marca:
+    sys:
+      id: na7nmhJhlYCocu26OImK8
+  categoria:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+  beneficio:
+  - Puntos
+  - Descuentos
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
+  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
+    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
+    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
+    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
+    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
+    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
+    & a la Central Telefónica.\"\t\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+categoria:
+- sys:
+    id: Y59ZhDeJSoCW2yeM6oOU8
+  titulo: Clásica
+- sys:
+    id: 430PSmMK4MWqgG84gywwwS
+  titulo: Black
+- sys:
+    id: ETVzYxHLygSOK6OiwS8IU
+  titulo: Dorada
+- sys:
+    id: 3Pc97dzJBKuc60Ei62kOoM
+  titulo: Platino
+- sys:
+    id: 4C5NkGks8EcKSacGgOAwA4
+  titulo: Premium
+marca:
+- sys:
+    id: 7N0sWwZT5CgyeWgck6OMuG
+  titulo: American Express
+- sys:
+    id: 2WeIGwmz8cEym8eaIOwEgU
+  titulo: Mastercard
+- sys:
+    id: na7nmhJhlYCocu26OImK8
+  titulo: Visa
