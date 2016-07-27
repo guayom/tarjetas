@@ -6,7 +6,9 @@ layout: default
   <h1>Tarjetas</h1>
   <ul>
     {% for tarjeta in site.data.contentful.spaces.tarjetas.tarjetas %}
-      <li><a href="{{ tarjeta.url}}">{{ tarjeta.nombre}}</a></li>
+      <li><a href="{{ tarjeta.url}}">{{ tarjeta.nombre}}</a>
+        --{{ tarjeta.slug }}--
+      </li>
     {% endfor %}
   </ul>
 </div>
