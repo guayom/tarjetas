@@ -2,6 +2,7 @@
 title: Contactos
 date: 2016-07-14 17:17:00 -06:00
 layout: contactos
+menu: si
 personas:
 - Nombre: Luis
   Apellido: Salas Herrera
@@ -21,4 +22,3 @@ personas:
   Email: kmorat@credomatic.com
   oficina: 2202300 ext 43969
 ---
-
