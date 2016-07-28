@@ -5,7 +5,7 @@ timezone: America/Guatemala
 email: emenaalt@credomatic.com
 description: 'Sitio para tarjetas de Credomatic'
 baseurl: ''
-url: https://tarjetas-credomatic.netlify.com/
+url: https://tarjetas-credomatic.netlify.com
 github_username: guayom
 markdown: kramdown
 permalink: pretty
