@@ -3,7 +3,7 @@
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, figure {
+dl, dd, ol, figure{
     margin: 0;
     padding: 0;
 }
@@ -36,6 +36,34 @@ dl, dd, ol, figure {
   h1{
     color: $gris_oscuro;
   }
+}
+
+dl {
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  clear: both;
+}
+dt {
+  display: block;
+  float: left;
+  width: 30%;
+  padding: 0;
+  margin: 0;
+}
+dd {
+  display: block;
+  float: left;
+  width: 70%;
+  padding: 0;
+  margin: 0;
+  min-height: 1em;
+}
+dt:after {
+  content: '';
+  display: table;
+  clear: both;
 }
 //Secciones
 
@@ -74,6 +102,7 @@ header{
 
   ul{
     list-style: none;
+    margin-left: 10px;
     li{
       display: inline-block;
       a{
