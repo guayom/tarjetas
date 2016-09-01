@@ -9,6 +9,9 @@ layout: default
 
   <div class="post-content">
     <dl>
+      <dt>Link al form</dt>
+      <dd><a href="{{ page.form }}" target="_blank">{{ page.form }}</a></dd>
+
       <dt>Marca</dt>
       {% for marca in site.data.contentful.spaces.tarjetas.marca %}
         {% if marca.sys.id == page.marca.sys.id %}
@@ -20,8 +23,10 @@ layout: default
       {% for categoria in site.data.contentful.spaces.tarjetas.categoria %}
         {% if categoria.sys.id == page.categoria.sys.id %}
           <dd>{{ categoria.titulo }}</dd>
+          {% capture color %}{{ categoria.identificador }}{% endcapture %}
         {% endif %}
       {% endfor %}
+
 
       <dt>Beneficio</dt>
       <dd>{{ page.beneficio }}</dd>
@@ -78,6 +83,7 @@ layout: default
         </ul>
       </dd>
     </dl>
+    {% include intereses.html %}
   </div>
 
 </article>

@@ -1395,22 +1395,6 @@ tarjetas:
   - Copia de la cédula de identidad vigente.
   - Constancia Salarial o colilla del CCSS
   form: https://www.baccredomatic.com/es-cr/form/2191
-categoria:
-- sys:
-    id: Y59ZhDeJSoCW2yeM6oOU8
-  titulo: Clásica
-- sys:
-    id: 430PSmMK4MWqgG84gywwwS
-  titulo: Black
-- sys:
-    id: ETVzYxHLygSOK6OiwS8IU
-  titulo: Dorada
-- sys:
-    id: 3Pc97dzJBKuc60Ei62kOoM
-  titulo: Platino
-- sys:
-    id: 4C5NkGks8EcKSacGgOAwA4
-  titulo: Premium
 marca:
 - sys:
     id: 7N0sWwZT5CgyeWgck6OMuG
@@ -1421,3 +1405,24 @@ marca:
 - sys:
     id: na7nmhJhlYCocu26OImK8
   titulo: Visa
+categoria:
+- sys:
+    id: 4C5NkGks8EcKSacGgOAwA4
+  titulo: Premium
+  identificador: premium
+- sys:
+    id: 430PSmMK4MWqgG84gywwwS
+  titulo: Black
+  identificador: black
+- sys:
+    id: 3Pc97dzJBKuc60Ei62kOoM
+  titulo: Platino
+  identificador: platino
+- sys:
+    id: Y59ZhDeJSoCW2yeM6oOU8
+  titulo: Clásica
+  identificador: clasica
+- sys:
+    id: ETVzYxHLygSOK6OiwS8IU
+  titulo: Dorada
+  identificador: dorada
