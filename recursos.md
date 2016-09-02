@@ -1,7 +1,8 @@
 ---
-title: Recursos
-date: 2016-07-14 21:48:00 -06:00
-menu: si
+title: recursos
 layout: default
+menu: si
 ---
-Aquí van a ir los logos y demás
+<a download="Logo Bac Credomatic" href="/images/logo.svg" title="Logo Bac Credomatic">
+    <i class="fa fa-download"></i>Descargar Logo (SVG)
+</a>

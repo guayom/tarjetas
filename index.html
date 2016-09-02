@@ -1,20 +1,6 @@
 ---
 layout: default
 ---
-<!-- [
-{% for tarjeta in site.data.contentful.spaces.tarjetas.tarjetas %}
-  {% for marca in tarjeta.marcas %}
-    {% for nivel in tarjeta.nivel %}
-      {% capture slug %}{{tarjeta.nombre | slugify}}-{{marca.titulo | slugify}}-{{nivel.titulo | slugify}}{% endcapture %}
-      {"titulo" => "{{tarjeta.nombre}} {{marca.titulo}} {{nivel.titulo}}",
-      "slug" => "{{slug}}",
-      "marca" => "{{marca.titulo}}",
-      "nivel" => "{{nivel.titulo}}"
-    },
-    {% endfor %}
-  {% endfor %}
-{% endfor %}
-] -->
 <div class="home">
   <h1>Tarjetas</h1>
   <ul>
