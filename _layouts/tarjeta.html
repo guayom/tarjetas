@@ -7,6 +7,9 @@ layout: default
     <h1 class="post-title">{{ page.titulo }}</h1>
   </header>
 
+  <img src="{{page.imagenes.imagen.url}}?w=200" alt="{{page.title}}" /><br/>
+  <a class="button" download="{{page.title}}" href="{{page.imagenes.imagen.url}}">Descargar imagen</a><br/><br/>
+
   <div class="post-content">
     <dl>
       <dt>Link al form</dt>
