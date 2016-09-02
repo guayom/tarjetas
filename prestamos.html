@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<h1>Préstamos</h1>
+<ul>
+{% for prestamo in site.prestamos %}
+  <li><a href="{{prestamo.url}}">{{prestamo.title}}</a></li>
+{% endfor %}
+</ul>

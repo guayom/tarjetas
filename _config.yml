@@ -9,3 +9,15 @@ url: https://tarjetas-credomatic.netlify.com
 github_username: guayom
 markdown: kramdown
 permalink: pretty
+
+collections:
+    prestamos:
+        output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "prestamos"
+    values:
+      layout: "prestamo"
