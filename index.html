@@ -19,8 +19,8 @@ layout: default
   <h1>Tarjetas</h1>
   <ul>
     {% for tarjeta in site.pages %}
-      {% if tarjeta.menu != 'si' %}
-        <li><a href="{{tarjeta.url}}">{{ tarjeta.title}}</a></li>
+      {% if tarjeta.nivel %}
+        <li><a href="{{tarjeta.url}}">{{ tarjeta.titulo}}</a></li>
       {% endif %}
     {% endfor %}
   </ul>
