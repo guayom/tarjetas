@@ -1,55 +1,3126 @@
 ---
+categoria:
+- sys:
+    id: 430PSmMK4MWqgG84gywwwS
+  titulo: Black
+  identificador: black
+- sys:
+    id: 4C5NkGks8EcKSacGgOAwA4
+  titulo: Premium
+  identificador: premium
+- sys:
+    id: 3Pc97dzJBKuc60Ei62kOoM
+  titulo: Platino
+  identificador: platino
+- sys:
+    id: Y59ZhDeJSoCW2yeM6oOU8
+  titulo: Clásica
+  identificador: clasica
+- sys:
+    id: 63ittkXosgOwuC2U8GsKCq
+  titulo: Prestige
+  identificador: prestige
+- sys:
+    id: ETVzYxHLygSOK6OiwS8IU
+  titulo: Dorada
+  identificador: dorada
+- sys:
+    id: 2fFoThDLqEieckIi4KEqYu
+  titulo: Elite
+  identificador: elite
+- sys:
+    id: 5RLYhxU4NOIICgIQGGc8kg
+  titulo: Infinite
+  identificador: infinite
+beneficios:
+- sys:
+    id: 4qymLSdeswGmG80iOKOMky
+  titulo: Acumulación acelerada 1.25 Millas por Dolar
+- sys:
+    id: 6idiAHEqJy6UWqce66WQe8
+  titulo: Up grade, registro de entrada temprano y salida tarde, desayuno para dos
+    personas, otras amenidades en Fine Hotels & Resorts, Small Luxury Hotels, Design
+    Hotels, Relais & Chateaux, Sofitel
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 3yiGcv2SHu4m8YocWWY6cm
+  titulo: Canjear las millas por tiquetes aéreos en American Airlines & Aerolíneas
+    de OneWorld
+- sys:
+    id: 5CjtG7cqYMqomM0Q4UUm2I
+  titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+    Telefónica.
+  general: true
+- sys:
+    id: vAbvEUykqOyCSw0eaS8o8
+  titulo: Garantia Extendida
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 46mqDlB7HyCiCgISQMwMEM
+  titulo: 1 Mlla por dólar en todos los comercios
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 1ttWGkM5PWi0w2Sq6COOyQ
+  titulo: 15.000 Millas de Bienvenida
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 5l8uqZgiZ2aoG44a2SwqUI
+  titulo: Status Silver en ConnectMiles
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 5yvpvzzac8w0qUyusGUcWc
+  titulo: Accenso a Clase Ejecutiva
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 5OAAxN10CQAOOOeaWoqi4A
+  titulo: 3% de PriceCash en Aerolíneas, Agencias de Viaje, Alquiler de Autos, Restaruantes
+    y Hoteles
+- sys:
+    id: 12DEn8dk5WKi8EsYMm6oii
+  titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+  general: true
+- sys:
+    id: 14kgQahVroYkEOiEIUmEQI
+  titulo: 'Programa De Restaurantes: Ofertas especiales en más de 400 restaurantes
+    en 60+ destinos alrededor del mundo: 20% de descuento en el resumen de su factura,
+    plato de entrada de cortesía, botella de vino de cortesía, postre de cortesía.'
+- sys:
+    id: 3erprMvs3eUQYwW8yyCsCa
+  titulo: 'Avis: Membresía Avis Preferred, Avis Fast Track, ascenso de categoría,
+    hasta 15% descuento sobre las tarifas estándar'
+- sys:
+    id: 5HvIZOQNY4GMECEOIIGI4Q
+  titulo: MasterCard Black Concierge
+- sys:
+    id: FMdoT3HymGyGkmusGIYqU
+  titulo: Acceso a Preventa en Eventos Credomatic
+- sys:
+    id: 3fpQgSPXT28GkqEsqyamUe
+  titulo: 1.500 millas de bienvenida
+- sys:
+    id: 6rMzuMlljGm8IuISsoWOM
+  titulo: 'Amex Vacations: paquetes personalizados de viajes: Disney, cruceros, hoteles,
+    alquiler de vehículo y excursiones'
+  destacado: false
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 5VduGcBo1G2EOakSwEMKcy
+  titulo: 1 Milla por dólar en todos los comercios
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 1thZtmdqCokKSukOw4IiCY
+  titulo: 1 Millas por cada $1 en los demás comercios
+- sys:
+    id: 204GBTCqdGIwqeA4MYA84c
+  titulo: 1 punto comidas rápidas, restaurantes, gasolineras, ropa,  zapaterías y
+    tiendas por departamento.
+- sys:
+    id: 4KhQGL2gMw2UQ22AKs20eK
+  titulo: SPG Starwood Preferred Guest®
+  destacado: true
+- sys:
+    id: gYLDCKg4X6yS8qeKWqGyy
+  titulo: Acceso a las promociones.
+  general: true
+- sys:
+    id: 5L17CNqYJaUwUU4CEAUKiQ
+  titulo: 1 Punto Auto Frecuente en demás comercios afiliados
+- sys:
+    id: 2BWsJvuhdS0wwSgq8sMoWq
+  titulo: Beneficio de Mini Cuotas a 48 Meses en Supermercados de la cadena Walmart
+- sys:
+    id: 60IXE2zQ3KSMoGiM8EWwaM
+  titulo: 2% de CashBack en Gasolineras
+  destacado: true
+- sys:
+    id: 1EauTLVdeEg8SiYwQ8uwqS
+  titulo: 10% de descuento en redención y compra de millas en copaair.com
+- sys:
+    id: 1Wwgwdi6k4GM6iCO4c648e
+  titulo: 2 Millas por Dolar
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 7cs9NdDLRSSyIcMOIg0Uga
+  titulo: 'Servicios de Emergencia Médica Internacional + '
+  marca:
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 1elQYLxHMe4yWYUEyYGOi8
+  titulo: Concierge
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 6aAgVMHhQIoAGGUEGuA84
+  titulo: Servicio Concierge Premium
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+  - sys:
+      id: 4C5NkGks8EcKSacGgOAwA4
+    titulo: Premium
+    identificador: premium
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 3nk7McpJqosM6G4SqWkgYy
+  titulo: 'Universal Orlando: Compras: 10% de descuento al comprar un mínimo de US$50
+    o 15% de descuento al comprar un mínimo de US$75 en mercadería en Universal Orlando.  Alimentos
+    y Bebidas: 10% de descuento en alimentos y bebidas.'
+- sys:
+    id: 4ucjbi8RYsG4844gUeY8UU
+  titulo: Seguro de compras por robo o daño
+- sys:
+    id: Mla5fKcEYScMgeeg60Oi6
+  titulo: 1% de CashBack en los demás comercios
+- sys:
+    id: 2X2BP6guuIa6QSs4eEoEaY
+  titulo: 5% de CashBack en Supermercado La Antorcha
+- sys:
+    id: d8lya0RUg8eeOikiC2cyW
+  titulo: LifeMiles®
+  destacado: true
+- sys:
+    id: 3e0OUlqVdm2kOyimSMmYiG
+  titulo: 10% de PriceCash por Cargo de Membresía
+- sys:
+    id: 6zRWcxq9EcUimiMk2eqcC6
+  titulo: Acceso a las salas Priority Pass
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: GMaLGe4BiesQ2SE6ma2sQ
+  titulo: Acceso a la Sala VIP Juan Santamaría
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 1aWixO9O7e0aCcS6QaoM64
+  titulo: Adelanto de Efectivo de Emergencia
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 6frTjzlTZCySqs8ucUMoKg
+  titulo: Acceder a TASA CERO en momento de promociones
+- sys:
+    id: XwGOoc5SW4OAaucISm0sG
+  titulo: 2 Millas por cada $1 Farmacia
+- sys:
+    id: 17kKyltvsysSeEy64a6oUW
+  titulo: Asistencia Durante Viajes
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 6S5NpC69MsqqcMSIYqkQIi
+  titulo: Asistencia de Viajes Premier
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 5hbK1LptPiemmwySamGAsW
+  titulo: MasterAssist Black
+- sys:
+    id: 1JHxbZruFWKYw0cyuiOIoI
+  titulo: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+- sys:
+    id: 6pTnmBCtOwkM8Y84qCGSES
+  titulo: 5 Visitas de Cortesía a Sala VIP SJO
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: SkIGgKhAU8sKW4WImMEIM
+  titulo: 3 puntos por cada $1 supermercados.
+- sys:
+    id: 7FIOweYOQguiWQs0ESUEmq
+  titulo: Bono por cargo automático de 500 millas
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: mKfbnuEIV2o20Gg0IMkAi
+  titulo: Planes de ahorro y financiamiento especiales
+  destacado: true
+  exclusivo: true
+- sys:
+    id: 6c6eVROGjY6O8MaCOO8WAw
+  titulo: 'Programa De Compras: Key To Madison Avenue, Thomas Pink, Barneys New York,
+    Donna Karan, Printemps,Forzieri, Matches Fashion'
+- sys:
+    id: 4in66RyNFmkSUueuAK8SS8
+  titulo: Valet parking en el hotel Intercontinental
+  destacado: true
+- sys:
+    id: 5rjKaWRuFiyuoqMiYmU4O0
+  titulo: 2 puntos por cada $1 en  farmacias.
+- sys:
+    id: 6KBDBWPCTKWGyMuQIwkOEE
+  titulo: 'Hertz: Membresia Herzt Gold Rewards FIVE STAR, hasta 15% de descuento sobre
+    las tarifas estándar y hasta 25% de descuento sobre las tarifas de Prestige Collection,
+    ascenso de categoría, check-in express y hasta 4 horas de plazo de gracia.'
+- sys:
+    id: 4e1QtviyB2WeEmaEocyo6C
+  titulo: Crédito a bordo, obsequio de bienvenida, otras amenidades En Silversea Cruises,
+    Crystal Cruises, Regent Seven Seas, Holland America Line
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 2GvvxOcetiqSwgYGKE2AYI
+  titulo: Acumulación Acelerada
+- sys:
+    id: 4n6cuXu8NWOqeygMs448Sy
+  titulo: Priority Pass, Delta, Airspace, The Centurion lounges.
+- sys:
+    id: 1AGuGEL46ECGkIE2UsM0we
+  titulo: Promociones Exclusivas
+- sys:
+    id: 3EdCNqHWCICaKiWcwg2YI8
+  titulo: 3% de CashBack en los comercios de City Mall*
+- sys:
+    id: 3S5uOmDmiAWsMUW4S8KWEU
+  titulo: Acceso a eventos exclusivos en Parque Viva
+- sys:
+    id: 3AkUON8TdYoYa64WkgCKiM
+  titulo: Servicio Personalizado & Preferencias en Sucursales BAC Credomatic
+  destacado: true
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 1wKeuqYSVu4suQqio4QGm0
+  titulo: 2% de PriceCash en Pricesmart
+- sys:
+    id: 38c9Xtsr7ywqQEg000maAS
+  titulo: Protección de Precio
+- sys:
+    id: ZW4mCbASKQ8MUOco4Oaym
+  titulo: 2% de Acumulación en Farmacias
+- sys:
+    id: 6uB5yOQI3mSCmQcggU6OMO
+  titulo: Priority Pass
+- sys:
+    id: XOnWqHgYaQqw0YIw0cOi8
+  titulo: 'Diamond Air: Servicio Meet & Greet, precios preferenciales  a 50 + lugares,  un
+    descuento del 15%  en lugares participantes.'
+- sys:
+    id: 6iix99TFE4kkUYAC424Uuc
+  titulo: Acceso a la Sala VIP del Juan Santamaría
+  destacado: true
+  exclusivo: true
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 30zz7DPUkEMmQGymkoKcEO
+  titulo: 1% en los demás comercios
+- sys:
+    id: 5BoVi0vh9SGAeUKYCiwKWw
+  titulo: Traslados de puntos a socios internacionales
+  destacado: true
+- sys:
+    id: jFJiucQdDqi6OqM0mouak
+  titulo: Millas de Bienvenida
+- sys:
+    id: 1VZhPw9TRS0UA24GaCCIaC
+  titulo: Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo
+    del comercio. Conozca los comercios en www.baccredomatic.com
+- sys:
+    id: 4rRaWfwrF6wKmgMQQmyEY0
+  titulo: Certificado Schenge
+- sys:
+    id: 684cXFE6cwwwa0aWowY0GQ
+  titulo: Delta SkyMiles®
+  destacado: true
+- sys:
+    id: 2Lx9ukrlcIsoSgc8ieykOq
+  titulo: 1% de Megaguinaldo por sus compras en los demás comercios
+- sys:
+    id: 157tf1WRqWOSUQMKsMUEOI
+  titulo: Plan de protección de compras
+- sys:
+    id: nSaNji9lQsaAACOQQOi0E
+  titulo: Evacuación Medica en caso emergencia
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 4uJpB7rnXam8Mo0uS0Igqy
+  titulo: Descuento en más de 150 comercios
+- sys:
+    id: 3QMfj1XRxKE4AS6WeKywUA
+  titulo: 1% de PriceCash En todos los comercios
+- sys:
+    id: 1sEUdchsOkOssossUO2MiM
+  titulo: Acumulación de 5% de CashBack por sus compras en Supermercados de la cadena
+    Walmart
+- sys:
+    id: 58IffDcmmkqMGeSQscIgY
+  titulo: American Express Selects
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: cKrEAxPRxQOAUCAak8M0c
+  titulo: 3.000 millas de bienvenida
+  marca:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+- sys:
+    id: ZzAWb1Mj4ciCW0Cu2SEMQ
+  titulo: 'Personal Shopper: Inside de información privilegiada y el acceso a oportunidades
+    de compras únicas disponibles en Londres, New York, Miami, Hong Kong, Sydney y
+    Paris.'
+- sys:
+    id: 71TtaKgikMiasm6o4gYYyw
+  titulo: 2% de Megaguinaldo por sus compras en Megasuper
+- sys:
+    id: 2zqCcfk57uGGYmsYakg4so
+  titulo: 'Club Carlson - Gold Elite Status: Ascenso de categoría de habitación; 50%
+    de puntos de bonificación en cada estadía elegible; 2.000 puntos de bonificación
+    por reservas en línea en clubcarlson.com'
+- sys:
+    id: 3Fy9HESOwwQmcCwWaEg4wu
+  titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+    interes.
+  general: true
+- sys:
+    id: 5552V0KWSQUw0GwmcmU4m0
+  titulo: 'Jets Privados: Crédito automático de US$800 (o su equivalente local) por
+    vuelo, mejor precio de garantía con: Air Partner, Le Bas International Y Air Charter
+    Service'
+- sys:
+    id: 147jOXU5lSwqGaucIO6QM0
+  titulo: Acceso al VIP Lounge
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 53vXerTEVauWwcU6qWeCgC
+  titulo: Acumulación de 1.5 Puntos Enjoy por cada $1 en compras locales e internacionales
+  destacado: true
+- sys:
+    id: 5xhJwGcELu2OgA88uO6W0w
+  titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+  general: true
+- sys:
+    id: 6AziUJ8rNmum8C8AA6Q4Qi
+  titulo: 2% de CashBack en farmacias y supermercados
+- sys:
+    id: 2oAIUk9i5G2iq82KMq4osM
+  titulo: Descuentos y amenidades en Blomindales
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 3M4eQTf10cgAaYGWUOGSg0
+  titulo: Fila preferencial MasterCard Black en el aeropuerto Juan Santamaría
+- sys:
+    id: 3tYal86DksWU26GyOgmmoO
+  titulo: '3 Millas por cada $1 en Supermercados '
+- sys:
+    id: 5e3Y1n0ZXyyAAAWauY0akm
+  titulo: Hasta 66 meses de financiamiento.
+  general: true
+- sys:
+    id: 2fvQZ2veRqy66cGIE4mWw8
+  titulo: Hilton HHonors®
+  destacado: true
+- sys:
+    id: ypcZjAOyruYouo8miESyw
+  titulo: 1 Punto por cada $1 en los demás comercios
+- sys:
+    id: 5alwWZxCmc0OsOiYoQgEAu
+  titulo: 'VIP Lounge: acceso exclusivo para clientes American Express'
+  destacado: true
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 25s8811qrqEmIKGAIUCaAk
+  titulo: Servicio de Asistencia en Viajes
+- sys:
+    id: 5buA1cIbRY440YeWUKM4ss
+  titulo: 5% de CashBack en Supermecados, Restaurantes, Farmacias & Comidas Rápidas
+  destacado: true
+- sys:
+    id: 26j6bpcpI0QSY86eeC8gME
+  titulo: Servicio Concierge Premium
+- sys:
+    id: 6TZHg8EmtOw4aiUWGSySG
+  titulo: Seguro de Accidentes de Viaje en Medios de Transporte
+  marca:
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  nivel:
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: uZC4HtdENUEGKAYawiySo
+  titulo: Priority Pass
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 6kbX9nubvymqCGYWIGAoq2
+  titulo: Bono por cargo automático de 500 millas
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 5xFLcFGQPSQYoeWeWamkOM
+  titulo: 4% de PriceCash por compras en pricesmart.com
+- sys:
+    id: 1rwXHju7dy8OY6SACuikg4
+  titulo: 3% de Acumulación en Supermercados
+- sys:
+    id: 3v7gQ4142IuGGayIugSkaI
+  titulo: Protección Inconvenientes de Viajes & Equipajes
+  notas: "Más beneficios en \nhttp://www.mastercard.com/cr/personal/es/findacard/credit_black.html"
+- sys:
+    id: oRVho1GHscMo66oCGggw2
+  titulo: 2 Millas por dólar en compra en Copa Airlines
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 5f8wE7fbUWqays4KKSYOS
+  titulo: Información de Viaje (limitado)
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 3JG9J2xrfqYeaAYyaycg8s
+  titulo: Protección de compras al detalle
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+- sys:
+    id: 2oOl4NB2iU4sawYWQkQsgQ
+  titulo: Aporte de 0.5 Puntos Enjoy al fondo de Becas Patrimonial
+  destacado: true
+- sys:
+    id: 1zdxUazeOUASqoAUQgq8eu
+  titulo: Iberia Plus ®
+- sys:
+    id: 1GzLMRcJ7qyQ6CsYI2AM00
+  titulo: Acumulación de 1 Milla por dólar
+  destacado: true
+- sys:
+    id: 5kjD81n1U4y4mqCiuAAWCa
+  titulo: Disponible en American Express
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 3XnSg22K8EYcqs6u24kgeE
+  titulo: Protección de Compras
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 3RX6Da5d3OGEUwAgWOSK0A
+  titulo: Descuentos y beneficios en preventas de eventos  como fórmula 1, tribecca
+    film y circo del sol
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 67c5qeO8iAKMkAkg4YIiYW
+  titulo: Seguro de viajes
+  nivel:
+  - sys:
+      id: 5RLYhxU4NOIICgIQGGc8kg
+    titulo: Infinite
+    identificador: infinite
+- sys:
+    id: RAF2zCjLIQi6WeYAg0Kuk
+  titulo: 10.000 Millas de Bienvenida
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  notas: Millas de Bienvenida son acreditadas por compra mínima de $1
+- sys:
+    id: PfwlKzGuYw48ycuwmMEEM
+  titulo: 6 Puntos Auto Frecuente en Restaurantes & Comidas Rápidas
+- sys:
+    id: 5Ksve32Ou4yYiuuyUS4wsA
+  titulo: Master Travel
+- sys:
+    id: 6Zhj9o4VX2q2AkuGgKge4c
+  titulo: 2 Millas por dólar en supermercados & estaciones de gasolina
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 4Il3ZSqwjKSiKS6GgAg2o4
+  titulo: Valet Parking en Multiplaza Escazú
+- sys:
+    id: 1iPLCl94vwO2ieOq4sie8S
+  titulo: Seguro Inconvenientes en viajes
+- sys:
+    id: 1hjm1RLGc6siOQSuqOyw0e
+  titulo: Acceso a servicio Concierge Travel & Living
+  destacado: true
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: N0Ja1FOfSeIIwUgg0komu
+  titulo: 15 Puntos AutoFrecuente por cada ¢300 en Auto Mercado/Vindi
+- sys:
+    id: 7HHxyz3qEMeAc0gKq6EWMu
+  titulo: Seguro de Alquiler de Auto
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 17ZdYOE1MQK0OoEw8wS22M
+  titulo: Compass de Cortesía
+- sys:
+    id: 5wPuUqMiekeuwaiCoYYOsk
+  titulo: Seguros de Accidente de Viajes
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+- sys:
+    id: 2DOgHAIftiA8QEe04kOO8A
+  titulo: Promociones exclusivas para clientes AAdvantage
+- sys:
+    id: 2gXYlbGcvK24sMm6wYggSi
+  titulo: 'Carey Limos: 15% de descuento en tarifas estándar minoristas Carey.'
+- sys:
+    id: 19VgMLaCry62SMOU2K24O6
+  titulo: 1.25 Millas por Dolar
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+- sys:
+    id: 6G1tcsHSKsceq8aA2G0weU
+  titulo: 1% de CashBack en los demas Comercios
+  destacado: true
+- sys:
+    id: 1EtqyU6GX6gAEOq0iaqMCK
+  titulo: Traslado gratis al aeropuerto, 12 eventos anuales por un máximo de $30
+  marca:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+- sys:
+    id: 3H6TL56wreMcUqomWaYeEa
+  titulo: Acumulación de 1% en los demás comercios
+- sys:
+    id: aDAen2AHviYAWEqgykscc
+  titulo: 3 Millas por dólar en compra en Copa Airlines
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+- sys:
+    id: 2pTpEDjWqo6MUYY2qWMagW
+  titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+  general: true
 tarjetas:
+- sys:
+    id: 75dl21nxuMIEs0UqOcIEQ2
+  nombre: CashBack de Credomatic
+  slug: cashback-de-credomatic
+  categoria:
+    sys:
+      id: 4w5hEC3eF2yUouaecIIkSs
+    titulo: Cashback
+    slug: cashback
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  marcas:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 1VZhPw9TRS0UA24GaCCIaC
+    titulo: Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo
+      del comercio. Conozca los comercios en www.baccredomatic.com
+  - sys:
+      id: FMdoT3HymGyGkmusGIYqU
+    titulo: Acceso a Preventa en Eventos Credomatic
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
+    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
+    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
+  modalidadDeAcumulacion: |-
+    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
+
+    Máximo de acumulación anual ¢250.000 CashBack
+    Mínimo de canje anual ¢15.000 Cashback
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2191
+  imagenes:
+    sys:
+      id: oD81oBPmpwA8ayGsICkc
+    titulo: Clásica
+    imagen:
+      title: tarjeta cashback clasica
+      url: "//images.contentful.com/9cds0lha1plv/3Pn43p0YgMqAOO26ECAYkE/ae8e0f4f17a5af45c30976c139009b66/tarjeta_cashback_clasica.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: 59HesugQYgkyocYSuE2ocM
+  nombre: Megasuper de Credomatic
+  slug: megasuper-de-credomatic
+  categoria:
+    sys:
+      id: 66YoLR9dFCm206ICuWYgyM
+    titulo: Supermercados
+    slug: supermercados
+  nivel:
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  marcas:
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  beneficios:
+  - sys:
+      id: 71TtaKgikMiasm6o4gYYyw
+    titulo: 2% de Megaguinaldo por sus compras en Megasuper
+  - sys:
+      id: 2Lx9ukrlcIsoSgc8ieykOq
+    titulo: 1% de Megaguinaldo por sus compras en los demás comercios
+  - sys:
+      id: 1AGuGEL46ECGkIE2UsM0we
+    titulo: Promociones Exclusivas
+  - sys:
+      id: 6TZHg8EmtOw4aiUWGSySG
+    titulo: Seguro de Accidentes de Viaje en Medios de Transporte
+    marca:
+    - sys:
+        id: na7nmhJhlYCocu26OImK8
+      titulo: Visa
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 7HHxyz3qEMeAc0gKq6EWMu
+    titulo: Seguro de Alquiler de Auto
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 3XnSg22K8EYcqs6u24kgeE
+    titulo: Protección de Compras
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 38c9Xtsr7ywqQEg000maAS
+    titulo: Protección de Precio
+  - sys:
+      id: vAbvEUykqOyCSw0eaS8o8
+    titulo: Garantia Extendida
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 7cs9NdDLRSSyIcMOIg0Uga
+    titulo: 'Servicios de Emergencia Médica Internacional + '
+    marca:
+    - sys:
+        id: na7nmhJhlYCocu26OImK8
+      titulo: Visa
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 4rRaWfwrF6wKmgMQQmyEY0
+    titulo: Certificado Schenge
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: Con la Tarjeta Megasuper de Credomatic por cada compra que realice
+    en Megasuper como en otros comercios genera un ahorro que podrá ser canjeado en
+    diciembre en todos los Megasuper del país.
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2191
+  imagenes:
+    sys:
+      id: 2kaX5OxKYUyi6oI8iY2aK0
+    titulo: Clásica
+    imagen:
+      title: tarjeta megasuper clasica
+      url: "//images.contentful.com/9cds0lha1plv/5LzdnTNLhKIooAsey8qQGQ/e5110e4c04aff07822b09c3d3c44ec23/tarjeta_megasuper_clasica.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: 56dNpxl26coC48Ikcikmk8
+  nombre: Gane Premios de Credomatic
+  slug: gane-premios-de-credomatic
+  categoria:
+    sys:
+      id: 485UdHpJpSWqO8qeIKIGCM
+    titulo: Puntos y Recompensas
+    slug: puntos
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  marcas:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 3tYal86DksWU26GyOgmmoO
+    titulo: '3 Millas por cada $1 en Supermercados '
+  - sys:
+      id: XwGOoc5SW4OAaucISm0sG
+    titulo: 2 Millas por cada $1 Farmacia
+  - sys:
+      id: 1thZtmdqCokKSukOw4IiCY
+    titulo: 1 Millas por cada $1 en los demás comercios
+  - sys:
+      id: 1JHxbZruFWKYw0cyuiOIoI
+    titulo: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
+    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
+    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
+    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
+    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
+    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
+    en la redención de sus millas.\n"
+  modalidadDeAcumulacion: |-
+    Máximo: 25.000 Millas Anuales
+    Mínimo 1.000 Millas Anuales
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2191
+  imagenes:
+    sys:
+      id: 5lUC1UbVxSa4cMUyU0wsOs
+    titulo: Platino
+    imagen:
+      title: tarjeta ganepremios clasica
+      url: "//images.contentful.com/9cds0lha1plv/6oxkvU825yOkkAGWau822s/ccbc980d421890063fd77ca8cf649534/tarjeta_ganepremios_clasica.jpg"
+    nivel:
+      sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+    principal: true
+- sys:
+    id: 2db2UxVeVaIaySSu4OMoCy
+  nombre: Millas Plus American Express de Credomatic
+  slug: millas-plus-american-express-de-credomatic
+  categoria:
+    sys:
+      id: 2D9Yw75xfKUKG6CsaEcU42
+    titulo: Viajes
+    slug: viajes
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 5RLYhxU4NOIICgIQGGc8kg
+    titulo: Infinite
+    identificador: infinite
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 4qymLSdeswGmG80iOKOMky
+    titulo: Acumulación acelerada 1.25 Millas por Dolar
+  - sys:
+      id: uZC4HtdENUEGKAYawiySo
+    titulo: Priority Pass
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: GMaLGe4BiesQ2SE6ma2sQ
+    titulo: Acceso a la Sala VIP Juan Santamaría
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 1AGuGEL46ECGkIE2UsM0we
+    titulo: Promociones Exclusivas
+  - sys:
+      id: jFJiucQdDqi6OqM0mouak
+    titulo: Millas de Bienvenida
+  - sys:
+      id: 5kjD81n1U4y4mqCiuAAWCa
+    titulo: Disponible en American Express
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 4ucjbi8RYsG4844gUeY8UU
+    titulo: Seguro de compras por robo o daño
+  - sys:
+      id: 1iPLCl94vwO2ieOq4sie8S
+    titulo: Seguro Inconvenientes en viajes
+  - sys:
+      id: 157tf1WRqWOSUQMKsMUEOI
+    titulo: Plan de protección de compras
+  - sys:
+      id: 4qymLSdeswGmG80iOKOMky
+    titulo: Acumulación acelerada 1.25 Millas por Dolar
+  - sys:
+      id: uZC4HtdENUEGKAYawiySo
+    titulo: Priority Pass
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: GMaLGe4BiesQ2SE6ma2sQ
+    titulo: Acceso a la Sala VIP Juan Santamaría
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 1AGuGEL46ECGkIE2UsM0we
+    titulo: Promociones Exclusivas
+  - sys:
+      id: 3fpQgSPXT28GkqEsqyamUe
+    titulo: 1.500 millas de bienvenida
+  - sys:
+      id: cKrEAxPRxQOAUCAak8M0c
+    titulo: 3.000 millas de bienvenida
+    marca:
+    - sys:
+        id: 2WeIGwmz8cEym8eaIOwEgU
+      titulo: Mastercard
+    - sys:
+        id: na7nmhJhlYCocu26OImK8
+      titulo: Visa
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+  - sys:
+      id: 6aAgVMHhQIoAGGUEGuA84
+    titulo: Servicio Concierge Premium
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+    - sys:
+        id: 4C5NkGks8EcKSacGgOAwA4
+      titulo: Premium
+      identificador: premium
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: La Tarjeta dirigida a las personas que les gusta viajar y prefieren
+    tener la libertad de escoger la aerolínea y la fecha en que viajan. Esta Tarjeta
+    le permite acumular millas con cada compra y le abre la posibilidad de canjearlas
+    en aerolíneas de su conveniencia y sin restricciones con la plataforma www.viajescredomatic.com
+  modalidadDeAcumulacion: "40.000 Millas Mensuales\n24 Meses "
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: "$10"
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/271
+  imagenes:
+    sys:
+      id: 2WZxH4uFCUWmaqCQyE4yuU
+    titulo: Black
+    imagen:
+      title: tarjeta millasplus black
+      url: "//images.contentful.com/9cds0lha1plv/1fPY0N35PgGoewg0QmGQO6/c6f113d17b81683c15cf7f5db33c25cd/tarjeta_millasplus_black.jpg"
+    nivel:
+      sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+    principal: true
+- sys:
+    id: 5dFPKNJCmQkqEowi4YwMay
+  nombre: Puntos Credomatic
+  slug: puntos-credomatic
+  categoria:
+    sys:
+      id: 485UdHpJpSWqO8qeIKIGCM
+    titulo: Puntos y Recompensas
+    slug: puntos
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  marcas:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: SkIGgKhAU8sKW4WImMEIM
+    titulo: 3 puntos por cada $1 supermercados.
+  - sys:
+      id: 5rjKaWRuFiyuoqMiYmU4O0
+    titulo: 2 puntos por cada $1 en  farmacias.
+  - sys:
+      id: ypcZjAOyruYouo8miESyw
+    titulo: 1 Punto por cada $1 en los demás comercios
+  - sys:
+      id: 1JHxbZruFWKYw0cyuiOIoI
+    titulo: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
+    y redimirlos en diversos comercios afiliados al programa. '
+  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
+    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
+    \nVencimiento 24 meses moviles"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: '700'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2191
+  imagenes:
+    sys:
+      id: 58QIlfGNTG4A4OW4aIW8Mi
+    titulo: Clásica
+    imagen:
+      title: tarjeta puntos clasica amex
+      url: "//images.contentful.com/9cds0lha1plv/3GC9AXQQSkcaYweE40cgig/b72ccfacee34c88e82248569e1c1eff1/tarjeta_puntos_clasica_amex.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: 5fMF6zUxfa220Q48AQQM4Q
+  nombre: Tarjeta PriceSmart de Credomatic
+  slug: tarjeta-pricesmart-de-credomatic
+  categoria:
+    sys:
+      id: 66YoLR9dFCm206ICuWYgyM
+    titulo: Supermercados
+    slug: supermercados
+  nivel:
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 3e0OUlqVdm2kOyimSMmYiG
+    titulo: 10% de PriceCash por Cargo de Membresía
+  - sys:
+      id: 5xFLcFGQPSQYoeWeWamkOM
+    titulo: 4% de PriceCash por compras en pricesmart.com
+  - sys:
+      id: 5OAAxN10CQAOOOeaWoqi4A
+    titulo: 3% de PriceCash en Aerolíneas, Agencias de Viaje, Alquiler de Autos, Restaruantes
+      y Hoteles
+  - sys:
+      id: 1wKeuqYSVu4suQqio4QGm0
+    titulo: 2% de PriceCash en Pricesmart
+  - sys:
+      id: 3QMfj1XRxKE4AS6WeKywUA
+    titulo: 1% de PriceCash En todos los comercios
+  - sys:
+      id: 3JG9J2xrfqYeaAYyaycg8s
+    titulo: Protección de compras al detalle
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+  - sys:
+      id: vAbvEUykqOyCSw0eaS8o8
+    titulo: Garantia Extendida
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5wPuUqMiekeuwaiCoYYOsk
+    titulo: Seguros de Accidente de Viajes
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 7HHxyz3qEMeAc0gKq6EWMu
+    titulo: Seguro de Alquiler de Auto
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5f8wE7fbUWqays4KKSYOS
+    titulo: Información de Viaje (limitado)
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 17kKyltvsysSeEy64a6oUW
+    titulo: Asistencia Durante Viajes
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 1aWixO9O7e0aCcS6QaoM64
+    titulo: Adelanto de Efectivo de Emergencia
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: nSaNji9lQsaAACOQQOi0E
+    titulo: Evacuación Medica en caso emergencia
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: Tarjeta de crédito Dual. Funciona como tarjeta de Crédito y como
+    Tarjeta de Membresía para acceder a los Clubes Pricesmart
+  modalidadDeAcumulacion: |-
+    $500 PriceCash Mensuales
+    24 Meses Móviles
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  imagenes:
+    sys:
+      id: 3ie6KNY2acC8Yy2s2EM86E
+    titulo: Clásica
+    imagen:
+      title: tarjeta pricesmart clasica
+      url: "//images.contentful.com/9cds0lha1plv/3mwdcPzGqAuc4cS6O6wCiK/c6f113d17b81683c15cf7f5db33c25cd/tarjeta_pricesmart_clasica.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: 6DQuaEJR0AkQA4iIs2EkC4
+  nombre: MasterCard Black®
+  slug: master-card-black
+  categoria:
+    sys:
+      id: 485UdHpJpSWqO8qeIKIGCM
+    titulo: Puntos y Recompensas
+    slug: puntos
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+  marcas:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  - sys:
+      id: 3eg86Vg7FmCmKwqaYiuQwi
+  beneficios:
+  - sys:
+      id: SkIGgKhAU8sKW4WImMEIM
+    titulo: 3 puntos por cada $1 supermercados.
+  - sys:
+      id: 5rjKaWRuFiyuoqMiYmU4O0
+    titulo: 2 puntos por cada $1 en  farmacias.
+  - sys:
+      id: 204GBTCqdGIwqeA4MYA84c
+    titulo: 1 punto comidas rápidas, restaurantes, gasolineras, ropa,  zapaterías
+      y tiendas por departamento.
+  - sys:
+      id: 6uB5yOQI3mSCmQcggU6OMO
+    titulo: Priority Pass
+  - sys:
+      id: 5HvIZOQNY4GMECEOIIGI4Q
+    titulo: MasterCard Black Concierge
+  - sys:
+      id: 4Il3ZSqwjKSiKS6GgAg2o4
+    titulo: Valet Parking en Multiplaza Escazú
+  - sys:
+      id: 3M4eQTf10cgAaYGWUOGSg0
+    titulo: Fila preferencial MasterCard Black en el aeropuerto Juan Santamaría
+  - sys:
+      id: 25s8811qrqEmIKGAIUCaAk
+    titulo: Servicio de Asistencia en Viajes
+  - sys:
+      id: 5Ksve32Ou4yYiuuyUS4wsA
+    titulo: Master Travel
+  - sys:
+      id: 5hbK1LptPiemmwySamGAsW
+    titulo: MasterAssist Black
+  - sys:
+      id: 3v7gQ4142IuGGayIugSkaI
+    titulo: Protección Inconvenientes de Viajes & Equipajes
+    notas: "Más beneficios en \nhttp://www.mastercard.com/cr/personal/es/findacard/credit_black.html"
+  breveDescripcion: 'Disfrute de sus compras y acumule puntos Credomatic con tope
+    revolvente,  más los beneficios exclusivos de Master Card: concierge, valet parking,
+    fila preferencial en migración, aduanas del aeropuerto Santamaría y otros.'
+  modalidadDeAcumulacion: "3 puntos supermercados.\n2 puntos farmacias.\n1 punto comidas
+    rápidas, restaurantes, gasolineras, ropa,  zapaterías y tiendas por departamento.\n\n35.000
+    - 75.000 Puntos \nVencimiento 24 meses móviles"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2191
+  imagenes:
+    sys:
+      id: 5uQEb8lxq8kQcogaWOWkuY
+    titulo: Black
+    imagen:
+      title: tarjeta mastecard black nueva
+      url: "//images.contentful.com/9cds0lha1plv/7KkkZxR0ByYykKusoe2u4/707768be118e9d06911606d3fb09441a/tarjeta_mastecard_black_nueva.jpg"
+    nivel:
+      sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+    principal: true
+- sys:
+    id: 4txz1WKrNSsqUwAG0wOswU
+  nombre: LifeMiles American Express de Credomatic
+  slug: lifemiles-american-express-de-credomatic
+  categoria:
+    sys:
+      id: 2D9Yw75xfKUKG6CsaEcU42
+    titulo: Viajes
+    slug: viajes
+  nivel:
+  - sys:
+      id: 2fFoThDLqEieckIi4KEqYu
+    titulo: Elite
+    identificador: elite
+  - sys:
+      id: 4C5NkGks8EcKSacGgOAwA4
+    titulo: Premium
+    identificador: premium
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 19VgMLaCry62SMOU2K24O6
+    titulo: 1.25 Millas por Dolar
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+  - sys:
+      id: 6iix99TFE4kkUYAC424Uuc
+    titulo: Acceso a la Sala VIP del Juan Santamaría
+    destacado: true
+    exclusivo: true
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 26j6bpcpI0QSY86eeC8gME
+    titulo: Servicio Concierge Premium
+  - sys:
+      id: 1Wwgwdi6k4GM6iCO4c648e
+    titulo: 2 Millas por Dolar
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: GMaLGe4BiesQ2SE6ma2sQ
+    titulo: Acceso a la Sala VIP Juan Santamaría
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 6aAgVMHhQIoAGGUEGuA84
+    titulo: Servicio Concierge Premium
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+    - sys:
+        id: 4C5NkGks8EcKSacGgOAwA4
+      titulo: Premium
+      identificador: premium
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 6zRWcxq9EcUimiMk2eqcC6
+    titulo: Acceso a las salas Priority Pass
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 58IffDcmmkqMGeSQscIgY
+    titulo: American Express Selects
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 5yvpvzzac8w0qUyusGUcWc
+    titulo: Accenso a Clase Ejecutiva
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  breveDescripcion: La tarjeta LifeMiles American Express le permite a viajeros frecuentes
+    de Avianca la posibilidad de acumular millas de forma acelerada por sus compras
+    diarias; además de poder canjear las millas por tiquetes aéreos en Avianca y miembros
+    de Star Alliance, noches de hospedaje en hoteles y/o renta de vehculos.
+  modalidadDeAcumulacion: "30.000 Millas Mensuales\n24 Meses "
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/266
+  imagenes:
+    sys:
+      id: 5oDWWvDl6gAQciMgq44ikq
+    titulo: Elite Unbranded
+    imagen:
+      title: tarjeta lifemiles elite unbranded
+      url: "//images.contentful.com/9cds0lha1plv/30mkI081VSkQoKs6CSkYGq/2085bff813d3e28645450a93334fa056/tarjeta_lifemiles_elite_unbranded.jpg"
+    nivel:
+      sys:
+        id: 2fFoThDLqEieckIi4KEqYu
+      titulo: Elite
+      identificador: elite
+    principal: true
+- sys:
+    id: 7JGlfnHKxOQuoY4GCumIKi
+  nombre: American Airlines AAdvantage de Credomatic
+  slug: american-airlines-aadvantage-de-credomatic
+  categoria:
+    sys:
+      id: 2D9Yw75xfKUKG6CsaEcU42
+    titulo: Viajes
+    slug: viajes
+  nivel:
+  - sys:
+      id: 63ittkXosgOwuC2U8GsKCq
+    titulo: Prestige
+    identificador: prestige
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  marcas:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 1GzLMRcJ7qyQ6CsYI2AM00
+    titulo: Acumulación de 1 Milla por dólar
+    destacado: true
+  - sys:
+      id: 3yiGcv2SHu4m8YocWWY6cm
+    titulo: Canjear las millas por tiquetes aéreos en American Airlines & Aerolíneas
+      de OneWorld
+  - sys:
+      id: 2DOgHAIftiA8QEe04kOO8A
+    titulo: Promociones exclusivas para clientes AAdvantage
+  - sys:
+      id: 1JHxbZruFWKYw0cyuiOIoI
+    titulo: 2x1 en Cinepolis (Martes, Jueves & Viernes)
+  - sys:
+      id: 3JG9J2xrfqYeaAYyaycg8s
+    titulo: Protección de compras al detalle
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+  - sys:
+      id: vAbvEUykqOyCSw0eaS8o8
+    titulo: Garantia Extendida
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5wPuUqMiekeuwaiCoYYOsk
+    titulo: Seguros de Accidente de Viajes
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 7HHxyz3qEMeAc0gKq6EWMu
+    titulo: Seguro de Alquiler de Auto
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5f8wE7fbUWqays4KKSYOS
+    titulo: Información de Viaje (limitado)
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 17kKyltvsysSeEy64a6oUW
+    titulo: Asistencia Durante Viajes
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 1aWixO9O7e0aCcS6QaoM64
+    titulo: Adelanto de Efectivo de Emergencia
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: nSaNji9lQsaAACOQQOi0E
+    titulo: Evacuación Medica en caso emergencia
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  breveDescripcion: "La tarjeta American Airlines AAdvantage de Credomatic le permite
+    a viajeros frecuentes de American Airlines la posibilidad de acumular millas por
+    sus compras diarias; además de poder canjear las millas por tiquetes aéreos en
+    American Airlines y las aerolíneas asociadas a OneWorld, noches de hospedaje en
+    hoteles y/o renta de vehculos.\t"
+  modalidadDeAcumulacion: |-
+    30.000 Millas Mensuales
+    24 Meses
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/271
+  imagenes:
+    sys:
+      id: DDBR3I5RXEMqgGMc2YEGu
+    titulo: Prestige
+    imagen:
+      title: tarjeta aa prestige
+      url: "//images.contentful.com/9cds0lha1plv/VKLyPbRN6wsyoQauoyMkU/bec87d5167b6706b6f45c4d484f44e98/tarjeta_aa_prestige.jpg"
+    nivel:
+      sys:
+        id: 63ittkXosgOwuC2U8GsKCq
+      titulo: Prestige
+      identificador: prestige
+    principal: true
+- sys:
+    id: 17hNmBQqrEkMSoAeAAECO0
+  nombre: INCAE Business School de Credomatic
+  slug: incae-business-school-de-credomatic
+  categoria:
+    sys:
+      id: 67E1yEOv3ay2oswi2oUi2Y
+    titulo: Otros
+    slug: otros
+  nivel:
+  - sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 53vXerTEVauWwcU6qWeCgC
+    titulo: Acumulación de 1.5 Puntos Enjoy por cada $1 en compras locales e internacionales
+    destacado: true
+  - sys:
+      id: 2oOl4NB2iU4sawYWQkQsgQ
+    titulo: Aporte de 0.5 Puntos Enjoy al fondo de Becas Patrimonial
+    destacado: true
+  - sys:
+      id: mKfbnuEIV2o20Gg0IMkAi
+    titulo: Planes de ahorro y financiamiento especiales
+    destacado: true
+    exclusivo: true
+  - sys:
+      id: 6iix99TFE4kkUYAC424Uuc
+    titulo: Acceso a la Sala VIP del Juan Santamaría
+    destacado: true
+    exclusivo: true
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 147jOXU5lSwqGaucIO6QM0
+    titulo: Acceso al VIP Lounge
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 3XnSg22K8EYcqs6u24kgeE
+    titulo: Protección de Compras
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 6S5NpC69MsqqcMSIYqkQIi
+    titulo: Asistencia de Viajes Premier
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 1elQYLxHMe4yWYUEyYGOi8
+    titulo: Concierge
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 67c5qeO8iAKMkAkg4YIiYW
+    titulo: Seguro de viajes
+    nivel:
+    - sys:
+        id: 5RLYhxU4NOIICgIQGGc8kg
+      titulo: Infinite
+      identificador: infinite
+  breveDescripcion: La tarjeta INCAE Business School de Credomatic, es un programa
+    de afinidad entre los egresados de INCAE y la Institución. El cual le permite
+    acumular 1.5 Puntos Enjoy por cada $1 en compras realizadas de manera local o
+    internacional. A su vez le brinda un aporte al fondo patrimonial de becas, promoviendo
+    una cultura de responsabilidad social y contribuyendo a un plan de financiamiento
+    del sistema de Post-grado de hijos de graduados y prospectos.
+  modalidadDeAcumulacion: |-
+    Máximo 180.000 puntos Anuales
+    Mínimo 15.000 Punto Anuales
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  disclaimers: Millas de Bienvenida son acreditadas por compra mínima de $1
+  imagenes:
+    sys:
+      id: LydU0XQsYSayMEEsAEKC8
+    titulo: Clásica
+    imagen:
+      title: tarjeta incae
+      url: "//images.contentful.com/9cds0lha1plv/6s9EpFIg8wYm24kGO88wqE/9aba56915ac7461b4884508f15ebdf4a/tarjeta_incae.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: xvUkpyLByC42K22I48QoW
+  nombre: Tarjeta Walmart de Credomatic
+  slug: tarjeta-walmart-de-credomatic
+  categoria:
+    sys:
+      id: 66YoLR9dFCm206ICuWYgyM
+    titulo: Supermercados
+    slug: supermercados
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 1sEUdchsOkOssossUO2MiM
+    titulo: Acumulación de 5% de CashBack por sus compras en Supermercados de la cadena
+      Walmart
+  - sys:
+      id: 3H6TL56wreMcUqomWaYeEa
+    titulo: Acumulación de 1% en los demás comercios
+  - sys:
+      id: 6frTjzlTZCySqs8ucUMoKg
+    titulo: Acceder a TASA CERO en momento de promociones
+  - sys:
+      id: 2BWsJvuhdS0wwSgq8sMoWq
+    titulo: Beneficio de Mini Cuotas a 48 Meses en Supermercados de la cadena Walmart
+  - sys:
+      id: 3JG9J2xrfqYeaAYyaycg8s
+    titulo: Protección de compras al detalle
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+  - sys:
+      id: vAbvEUykqOyCSw0eaS8o8
+    titulo: Garantia Extendida
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5wPuUqMiekeuwaiCoYYOsk
+    titulo: Seguros de Accidente de Viajes
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 7HHxyz3qEMeAc0gKq6EWMu
+    titulo: Seguro de Alquiler de Auto
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5f8wE7fbUWqays4KKSYOS
+    titulo: Información de Viaje (limitado)
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 17kKyltvsysSeEy64a6oUW
+    titulo: Asistencia Durante Viajes
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 1aWixO9O7e0aCcS6QaoM64
+    titulo: Adelanto de Efectivo de Emergencia
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: ETVzYxHLygSOK6OiwS8IU
+      titulo: Dorada
+      identificador: dorada
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: nSaNji9lQsaAACOQQOi0E
+    titulo: Evacuación Medica en caso emergencia
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: 'Tarjeta dirigida a las personas que realizan sus compras de Supermercado
+    en cualquiera de los Supermercados de la cadena Walmart (Walmart, Más por Menos,
+    Palí, Maxi Palí) permitiendoles disfrutar un ahorro del 5% en cada compra que
+    realicen en el supermercado  adicional '
+  modalidadDeAcumulacion: "20.000 Walmart Cash Mensual / 240.000 Walmart Cash Anuales\n24
+    Meses móviles\t"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2521
+  imagenes:
+    sys:
+      id: 12LRRFFgbSgeGYKEk2SkSM
+    titulo: Clásica
+    imagen:
+      title: tarjeta walmart clasica
+      url: "//images.contentful.com/9cds0lha1plv/vmd9OqOFhIO02kiAAug6G/2436d7cfb6b011006964f8fe17665448/tarjeta_walmart_clasica.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: 20nSr3SiycygcIWgokouCq
+  nombre: ConnectMiles de Credomatic
+  slug: connectmiles-de-credomatic
+  categoria:
+    sys:
+      id: 2D9Yw75xfKUKG6CsaEcU42
+    titulo: Viajes
+    slug: viajes
+  nivel:
+  - sys:
+      id: 5RLYhxU4NOIICgIQGGc8kg
+    titulo: Infinite
+    identificador: infinite
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  marcas:
+  - sys:
+      id: na7nmhJhlYCocu26OImK8
+    titulo: Visa
+  beneficios:
+  - sys:
+      id: jFJiucQdDqi6OqM0mouak
+    titulo: Millas de Bienvenida
+  - sys:
+      id: 2GvvxOcetiqSwgYGKE2AYI
+    titulo: Acumulación Acelerada
+  - sys:
+      id: uZC4HtdENUEGKAYawiySo
+    titulo: Priority Pass
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 1EauTLVdeEg8SiYwQ8uwqS
+    titulo: 10% de descuento en redención y compra de millas en copaair.com
+  - sys:
+      id: RAF2zCjLIQi6WeYAg0Kuk
+    titulo: 10.000 Millas de Bienvenida
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+    notas: Millas de Bienvenida son acreditadas por compra mínima de $1
+  - sys:
+      id: oRVho1GHscMo66oCGggw2
+    titulo: 2 Millas por dólar en compra en Copa Airlines
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5VduGcBo1G2EOakSwEMKcy
+    titulo: 1 Milla por dólar en todos los comercios
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 6kbX9nubvymqCGYWIGAoq2
+    titulo: Bono por cargo automático de 500 millas
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: uZC4HtdENUEGKAYawiySo
+    titulo: Priority Pass
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 5l8uqZgiZ2aoG44a2SwqUI
+    titulo: Status Silver en ConnectMiles
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 1ttWGkM5PWi0w2Sq6COOyQ
+    titulo: 15.000 Millas de Bienvenida
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: aDAen2AHviYAWEqgykscc
+    titulo: 3 Millas por dólar en compra en Copa Airlines
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 6Zhj9o4VX2q2AkuGgKge4c
+    titulo: 2 Millas por dólar en supermercados & estaciones de gasolina
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 46mqDlB7HyCiCgISQMwMEM
+    titulo: 1 Mlla por dólar en todos los comercios
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 7FIOweYOQguiWQs0ESUEmq
+    titulo: Bono por cargo automático de 500 millas
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 6pTnmBCtOwkM8Y84qCGSES
+    titulo: 5 Visitas de Cortesía a Sala VIP SJO
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  breveDescripcion: "La nueva y exclusiva Tarjeta ConnectMiles de Credomatic le ofrece
+    atractivos beneficios, como el ascenso inmediato a ESTATUS SILVER* para que sus
+    viajes de negocios o placer sean más placenteros.\nEntre sus múltiples beneficios,
+    La Tarjeta ConnectMiles de Credomatic lo ofrece un atractivo millaje de bienvenida
+    para que viaje más rápido a cualquiera de los destinos de CopaAirlines.\nAdemás
+    su acumulación acelerada de millas por sus compras diarias, le permitirá acumular,
+    redimir y viajar en menos tiempo.\t"
+  modalidadDeAcumulacion: |-
+    30.000 Millas Mensuales
+    24 Meses
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: Platino 8, Infinite $10
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/266
+  disclaimers: Millas de Bienvenida son acreditadas por compra mínima de $1
+  imagenes:
+    sys:
+      id: 6UR5aO8Ksw0wiA0K2OsOmi
+    titulo: Infinite
+    imagen:
+      title: tarjeta connectmiles infinite
+      url: "//images.contentful.com/9cds0lha1plv/4CclzlZfEkkGAEYSouEIwC/a52e3248c86897d4f9e41e0ace8f651e/tarjeta_connectmiles_infinite.jpg"
+    nivel:
+      sys:
+        id: 5RLYhxU4NOIICgIQGGc8kg
+      titulo: Infinite
+      identificador: infinite
+    principal: true
+- sys:
+    id: 63cxF5SM7ukAoyO86OmoOa
+  nombre: City Mall MasterCard de Credomatic
+  slug: city-mall-mastercard-de-credomatic
+  categoria:
+    sys:
+      id: 4w5hEC3eF2yUouaecIIkSs
+    titulo: Cashback
+    slug: cashback
+  nivel:
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  - sys:
+      id: ETVzYxHLygSOK6OiwS8IU
+    titulo: Dorada
+    identificador: dorada
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  marcas:
+  - sys:
+      id: 2WeIGwmz8cEym8eaIOwEgU
+    titulo: Mastercard
+  beneficios:
+  - sys:
+      id: 2X2BP6guuIa6QSs4eEoEaY
+    titulo: 5% de CashBack en Supermercado La Antorcha
+  - sys:
+      id: 3EdCNqHWCICaKiWcwg2YI8
+    titulo: 3% de CashBack en los comercios de City Mall*
+  - sys:
+      id: 6AziUJ8rNmum8C8AA6Q4Qi
+    titulo: 2% de CashBack en farmacias y supermercados
+  - sys:
+      id: Mla5fKcEYScMgeeg60Oi6
+    titulo: 1% de CashBack en los demás comercios
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: Tarjeta de Marca compartida con City Mall con la cual podrás acumular
+    CashBack por las compras realizadas en las tiendas que se encuentren en City Mall.
+  modalidadDeAcumulacion: |-
+    250.000 Colones Anuales
+    24 Meses
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  cargoAdministrativo: 'Clásica y dorada: ¢700, Platino: gratis'
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2191
+  disclaimers: "Las Compras Acumularán un 3% siempre y cuando sean procesadas en los
+    datáfonos de Credomatic.\t\n\t\t\t\n\t\t\t"
+  imagenes:
+    sys:
+      id: WknctgPJqUA404CoGMoII
+    titulo: Clásica
+    imagen:
+      title: tarjeta citymall clasica
+      url: "//images.contentful.com/9cds0lha1plv/eGjV4Z8WtyYmcyASIAEym/70dcd061f9caa15a7665d77decbcc960/tarjeta_citymall_clasica.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
+- sys:
+    id: 7EcU3GlhugiKyYUecGMsgO
+  nombre: La Tarjeta Platinum de American Express (GRCC)
+  slug: la-tarjeta-platinum-de-american-express-grcc
+  categoria:
+    sys:
+      id: 1awDSOjpZwAIkkicmEY0sY
+    titulo: Estilo de vida
+    slug: estilo-de-vida
+  nivel:
+  - sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 1GzLMRcJ7qyQ6CsYI2AM00
+    titulo: Acumulación de 1 Milla por dólar
+    destacado: true
+  breveDescripcion: Con esta tarjeta puede disfrutar de todos los beneficios de Membership
+    Rewards®, como trasladar puntos a socios internacionales, o redimirlos en viajescredomatic.com.
+    Es libre de anualidad por administración de cuenta.
+  modalidadDeAcumulacion: |-
+    15.000 Puntos Membership Rewards® Mensuales
+    Máximo 180.000 puntos Membership Rewards®
+    No hay mínimo de redención
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/276
+  imagenes:
+    sys:
+      id: 5KHzlZs5BSsYkSSGK8OSsc
+    titulo: Platino
+    imagen:
+      title: tarjeta amex platinum
+      url: "//images.contentful.com/9cds0lha1plv/6eh7cf81GMsQMAwK8e2gWe/5ed194285b5e1faf5865dedf1241cc7d/tarjeta_amex_platinum.jpg"
+    nivel:
+      sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+    principal: true
+- sys:
+    id: 6keCpKBk3YMqgoESOQkEOu
+  nombre: Tarjeta Club La Nación de Credomatic
+  slug: tarjeta-club-la-nacion-de-credomatic
+  categoria:
+    sys:
+      id: 67E1yEOv3ay2oswi2oUi2Y
+    titulo: Otros
+    slug: otros
+  nivel:
+  - sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 1rwXHju7dy8OY6SACuikg4
+    titulo: 3% de Acumulación en Supermercados
+  - sys:
+      id: ZW4mCbASKQ8MUOco4Oaym
+    titulo: 2% de Acumulación en Farmacias
+  - sys:
+      id: 30zz7DPUkEMmQGymkoKcEO
+    titulo: 1% en los demás comercios
+  - sys:
+      id: 4uJpB7rnXam8Mo0uS0Igqy
+    titulo: Descuento en más de 150 comercios
+  - sys:
+      id: 3S5uOmDmiAWsMUW4S8KWEU
+    titulo: Acceso a eventos exclusivos en Parque Viva
+  - sys:
+      id: 17ZdYOE1MQK0OoEw8wS22M
+    titulo: Compass de Cortesía
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: 12DEn8dk5WKi8EsYMm6oii
+    titulo: Hasta 25 días posterior a su fecha de corte para realizar su pago.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
+  breveDescripcion: "Una Tarjeta para las personas que les gusta aprovechar las mejores
+    promociones de Credomatic & La Nación. Con solo ser suscriptor del periódico de
+    La Nación podrás gozar de múltiples descuentos, oportunidades y beneficios exclusivos
+    para los clientes de Club.\t"
+  modalidadDeAcumulacion: "¢250.000 Puntos Viva Anuales"
+  uso:
+  - Compras
+  - Compras online
+  - Avance de efectivo
+  - Compra de cartera
+  tipoDeCliente: Ambos
+  requisitos:
+  - Mayor de 21 años.
+  - Antigüedad laboral mínima de 3 meses.
+  - Copia de la cédula de identidad vigente.
+  - Constancia Salarial o colilla del CCSS
+  - 'Trabajadores independientes: CPA'
+  form: https://www.baccredomatic.com/es-cr/form/2611
+  imagenes:
+    sys:
+      id: 71R9i702PumUYc2wiAmmK4
+    titulo: Clásica
+    imagen:
+      title: tarjeta club nacion
+      url: "//images.contentful.com/9cds0lha1plv/3BySd9CTpS6AKGqM0kSGCG/0327215bc8ffdbbcc3b1e2de274f2f45/tarjeta_club_nacion.jpg"
+    nivel:
+      sys:
+        id: Y59ZhDeJSoCW2yeM6oOU8
+      titulo: Clásica
+      identificador: clasica
+    principal: true
 - sys:
     id: 5U5gxIOv4IiGa6QuUIYgee
   nombre: The Platinum Card de American Express Credomatic (RCP)
   slug: the-platinum-card-de-american-express-credomatic-rcp
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
   categoria:
     sys:
+      id: 1awDSOjpZwAIkkicmEY0sY
+    titulo: Estilo de vida
+    slug: estilo-de-vida
+  nivel:
+  - sys:
       id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Millas
+    titulo: Platino
+    identificador: platino
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 1GzLMRcJ7qyQ6CsYI2AM00
+    titulo: Acumulación de 1 Milla por dólar
+    destacado: true
+  - sys:
+      id: 5BoVi0vh9SGAeUKYCiwKWw
+    titulo: Traslados de puntos a socios internacionales
+    destacado: true
+  - sys:
+      id: 684cXFE6cwwwa0aWowY0GQ
+    titulo: Delta SkyMiles®
+    destacado: true
+  - sys:
+      id: 4KhQGL2gMw2UQ22AKs20eK
+    titulo: SPG Starwood Preferred Guest®
+    destacado: true
+  - sys:
+      id: d8lya0RUg8eeOikiC2cyW
+    titulo: LifeMiles®
+    destacado: true
+  - sys:
+      id: 1zdxUazeOUASqoAUQgq8eu
+    titulo: Iberia Plus ®
+  - sys:
+      id: 2fvQZ2veRqy66cGIE4mWw8
+    titulo: Hilton HHonors®
+    destacado: true
+  - sys:
+      id: 1EtqyU6GX6gAEOq0iaqMCK
+    titulo: Traslado gratis al aeropuerto, 12 eventos anuales por un máximo de $30
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 5alwWZxCmc0OsOiYoQgEAu
+    titulo: 'VIP Lounge: acceso exclusivo para clientes American Express'
+    destacado: true
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 3RX6Da5d3OGEUwAgWOSK0A
+    titulo: Descuentos y beneficios en preventas de eventos  como fórmula 1, tribecca
+      film y circo del sol
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 4in66RyNFmkSUueuAK8SS8
+    titulo: Valet parking en el hotel Intercontinental
+    destacado: true
+  - sys:
+      id: 2oAIUk9i5G2iq82KMq4osM
+    titulo: Descuentos y amenidades en Blomindales
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 6rMzuMlljGm8IuISsoWOM
+    titulo: 'Amex Vacations: paquetes personalizados de viajes: Disney, cruceros,
+      hoteles, alquiler de vehículo y excursiones'
+    destacado: false
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 6idiAHEqJy6UWqce66WQe8
+    titulo: Up grade, registro de entrada temprano y salida tarde, desayuno para dos
+      personas, otras amenidades en Fine Hotels & Resorts, Small Luxury Hotels, Design
+      Hotels, Relais & Chateaux, Sofitel
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 4e1QtviyB2WeEmaEocyo6C
+    titulo: Crédito a bordo, obsequio de bienvenida, otras amenidades En Silversea
+      Cruises, Crystal Cruises, Regent Seven Seas, Holland America Line
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+  - sys:
+      id: 2zqCcfk57uGGYmsYakg4so
+    titulo: 'Club Carlson - Gold Elite Status: Ascenso de categoría de habitación;
+      50% de puntos de bonificación en cada estadía elegible; 2.000 puntos de bonificación
+      por reservas en línea en clubcarlson.com'
+  - sys:
+      id: 4n6cuXu8NWOqeygMs448Sy
+    titulo: Priority Pass, Delta, Airspace, The Centurion lounges.
+  - sys:
+      id: XOnWqHgYaQqw0YIw0cOi8
+    titulo: 'Diamond Air: Servicio Meet & Greet, precios preferenciales  a 50 + lugares,  un
+      descuento del 15%  en lugares participantes.'
+  - sys:
+      id: 5552V0KWSQUw0GwmcmU4m0
+    titulo: 'Jets Privados: Crédito automático de US$800 (o su equivalente local)
+      por vuelo, mejor precio de garantía con: Air Partner, Le Bas International Y
+      Air Charter Service'
+  - sys:
+      id: 2gXYlbGcvK24sMm6wYggSi
+    titulo: 'Carey Limos: 15% de descuento en tarifas estándar minoristas Carey.'
+  - sys:
+      id: 6KBDBWPCTKWGyMuQIwkOEE
+    titulo: 'Hertz: Membresia Herzt Gold Rewards FIVE STAR, hasta 15% de descuento
+      sobre las tarifas estándar y hasta 25% de descuento sobre las tarifas de Prestige
+      Collection, ascenso de categoría, check-in express y hasta 4 horas de plazo
+      de gracia.'
+  - sys:
+      id: 3erprMvs3eUQYwW8yyCsCa
+    titulo: 'Avis: Membresía Avis Preferred, Avis Fast Track, ascenso de categoría,
+      hasta 15% descuento sobre las tarifas estándar'
+  - sys:
+      id: 14kgQahVroYkEOiEIUmEQI
+    titulo: 'Programa De Restaurantes: Ofertas especiales en más de 400 restaurantes
+      en 60+ destinos alrededor del mundo: 20% de descuento en el resumen de su factura,
+      plato de entrada de cortesía, botella de vino de cortesía, postre de cortesía.'
+  - sys:
+      id: 3nk7McpJqosM6G4SqWkgYy
+    titulo: 'Universal Orlando: Compras: 10% de descuento al comprar un mínimo de
+      US$50 o 15% de descuento al comprar un mínimo de US$75 en mercadería en Universal
+      Orlando.  Alimentos y Bebidas: 10% de descuento en alimentos y bebidas.'
+  - sys:
+      id: 6c6eVROGjY6O8MaCOO8WAw
+    titulo: 'Programa De Compras: Key To Madison Avenue, Thomas Pink, Barneys New
+      York, Donna Karan, Printemps,Forzieri, Matches Fashion'
+  - sys:
+      id: ZzAWb1Mj4ciCW0Cu2SEMQ
+    titulo: 'Personal Shopper: Inside de información privilegiada y el acceso a oportunidades
+      de compras únicas disponibles en Londres, New York, Miami, Hong Kong, Sydney
+      y Paris.'
+  - sys:
+      id: 2pTpEDjWqo6MUYY2qWMagW
+    titulo: Pagos en Sucursales de BAC Credomatic & Red de Pagos
+    general: true
+  - sys:
+      id: 5e3Y1n0ZXyyAAAWauY0akm
+    titulo: Hasta 66 meses de financiamiento.
+    general: true
+  - sys:
+      id: gYLDCKg4X6yS8qeKWqGyy
+    titulo: Acceso a las promociones.
+    general: true
+  - sys:
+      id: 3Fy9HESOwwQmcCwWaEg4wu
+    titulo: Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin
+      interes.
+    general: true
+  - sys:
+      id: 5xhJwGcELu2OgA88uO6W0w
+    titulo: Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
+    general: true
+  - sys:
+      id: 5CjtG7cqYMqomM0Q4UUm2I
+    titulo: Servicios en línea 24 horas por medio de baccredomatic.com & a la Central
+      Telefónica.
+    general: true
   breveDescripcion: Es una tarjeta con beneficios de clase mundial, una de las tarjetas
     más prestigiosas del mundo. La única con acceso Premium a la Sala VIP del aeropuerto
     Santamaría. Las millas pueden trasladarse a programas de lealtad de socios internacionales
     como cadenas de hoteles y aerolíneas.
-  beneficiosGenerales: "Acumulación de 1 milla por dólar \nTraslados de puntos a socios
-    internacionales\nDelta SkyMiles®\nSPG Starwood Preferred Guest®\nLifeMiles®\nIberia
-    Plus ®\nHilton HHonors®"
-  otrosBeneficios: "Traslado gratis al aeropuerto, 12 eventos anuales por un máximo
-    de $30\nVIP Lounge: acceso exclusivo para clientes American Express\nDescuentos
-    y beneficios en preventas de eventos  como fórmula 1, tribecca film y circo del
-    sol  \nValet parking en el hotel Intercontinental\nDescuentos y amenidades en
-    Blomindales       \nAmex Vacations: paquetes personalizados de viajes: Disney,
-    cruceros, hoteles, alquiler de vehículo y excursiones\nUp grade, registro de entrada
-    temprano y salida tarde, desayuno para dos personas, otras amenidades en Fine
-    Hotels & Resorts, Small Luxury Hotels, Design Hotels, Relais & Chateaux, Sofitel\nCrédito
-    a bordo, obsequio de bienvenida, otras amenidades En Silversea Cruises, Crystal
-    Cruises, Regent Seven Seas, Holland America Line\nClub Carlson - Gold Elite Status:
-    Ascenso de categoría de habitación; 50% de puntos de bonificación en cada estadía
-    elegible; 2.000 puntos de bonificación por reservas en línea en clubcarlson.com\nPriority
-    Pass, Delta, Airspace, The Centurion lounges.\nDiamond Air: Servicio Meet & Greet,
-    precios preferenciales  a 50 + lugares,  un descuento del 15%  en lugares participantes.\nJets
-    Privados: Crédito automático de US$800 (o su equivalente local) por vuelo, mejor
-    precio de garantía con: Air Partner, Le Bas International Y Air Charter Service\nCarey
-    Limos: 15% de descuento en tarifas estándar minoristas Carey.\nHertz: Membresia
-    Herzt Gold Rewards FIVE STAR, hasta 15% de descuento sobre las tarifas estándar
-    y hasta 25% de descuento sobre las tarifas de Prestige Collection, ascenso de
-    categoría, check-in express y hasta 4 horas de plazo de gracia.\nAvis: Membresía
-    Avis Preferred, Avis Fast Track, ascenso de categoría, hasta 15% descuento sobre
-    las tarifas estándar\nPrograma De Restaurantes: Ofertas especiales en más de 400
-    restaurantes en 60+ destinos alrededor del mundo: 20% de descuento en el resumen
-    de su factura, plato de entrada de cortesía, botella de vino de cortesía, postre
-    de cortesía.\nUniversal Orlando: Compras: 10% de descuento al comprar un mínimo
-    de US$50 o 15% de descuento al comprar un mínimo de US$75 en mercadería en Universal
-    Orlando.  Alimentos y Bebidas: 10% de descuento en alimentos y bebidas.\nPrograma
-    De Compras: Key To Madison Avenue, Thomas Pink, Barneys New York, Donna Karan,
-    Printemps,Forzieri, Matches Fashion\nPersonal Shopper: Inside de información privilegiada
-    y el acceso a oportunidades de compras únicas disponibles en Londres, New York,
-    Miami, Hong Kong, Sydney y Paris."
   uso:
   - Compras
   - Compras online
@@ -65,987 +3136,86 @@ tarjetas:
   - Constancia Salarial o colilla del CCSS
   - 'Trabajadores independientes: CPA'
   form: https://www.baccredomatic.com/es-cr/form/281
-- sys:
-    id: 2TtoMVEDDy06EaIayMQ6aA
-  nombre: Gane Premios de Credomatic Dorada Mastercard
-  slug: gane-premios-de-credomatic-dorada-mastercard
-  marca:
+  imagenes:
     sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "\"Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta
-    66 meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para
-    realizar su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 6DQuaEJR0AkQA4iIs2EkC4
-  nombre: MasterCard Black®
-  slug: master-card-black
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: 430PSmMK4MWqgG84gywwwS
-  beneficio:
-  - Puntos
-  - Otros Beneficios
-  breveDescripcion: 'Disfrute de sus compras y acumule puntos Credomatic con tope
-    revolvente,  más los beneficios exclusivos de Master Card: concierge, valet parking,
-    fila preferencial en migración, aduanas del aeropuerto Santamaría y otros.'
-  beneficiosGenerales: |-
-    Priority Pass
-    MasterCard Black Concierge
-    Valet Parking en Multiplaza Escazú
-    Valet Parking en Avenida Escazú
-    Fila preferencial MasterCard Black en el aeropuerto Juan Santamaría
-  modalidadDeAcumulacion: "3 puntos supermercados.\n2 puntos farmacias.\n1 punto comidas
-    rápidas, restaurantes, gasolineras, ropa,  zapaterías y tiendas por departamento.\n\n35.000
-    - 75.000 Puntos \nVencimiento 24 meses móviles"
-  otrosBeneficios: |-
-    Beneficios MasterCard Black
-    Servicio de Asistencia en Viajes
-    MasterAssist Black
-    Master Travel
-    Protección Inconvenientes de Viajes & Equipajes
-    Entre otro muchos más (http://www.mastercard.com/cr/personal/es/findacard/credit_black.html)
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 6mfvcBce0Egoe2uAIiQSaW
-  nombre: Puntos Credomatic Clásica Mastercard
-  slug: puntos-credomatic-clasica-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 14cpQUQBS0gm04MOweyeeO
-  nombre: Puntos Credomatic Platino Mastercard
-  slug: puntos-credomatic-platino-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 1m7q8d7JqoygGAcmoCMoy
-  nombre: Puntos Credomatic Clásica American Express
-  slug: puntos-credomatic-clasica-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: Hasta 3 puntos por $1 de compra
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 3vhmzJWR1mcSuOmOKGmSmU
-  nombre: CashBack de Credomatic Platino Mastercard
-  slug: cashback-de-credomatic-platino-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 571Tkko5igW8KeGoq4swsq
-  nombre: Puntos Credomatic Platino American Express
-  slug: puntos-credomatic-platino-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: Hasta 3 puntos por $1 de compra
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 332NzGcpfW6GyIcKiUiMA6
-  nombre: CashBack de Credomatic Dorada American Express
-  slug: cashback-de-credomatic-dorada-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: ''
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 56dNpxl26coC48Ikcikmk8
-  nombre: Gane Premios de Credomatic Platino American Express
-  slug: gane-premios-de-credomatic-platino-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
-    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
-    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 3JA3lkASzKWgQ0UW0q84qA
-  nombre: Gane Premios de Credomatic Platino Visa
-  slug: gane-premios-de-credomatic-platino-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
-    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
-    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 75dl21nxuMIEs0UqOcIEQ2
-  nombre: CashBack de Credomatic Clásica American Express
-  slug: cashback-de-credomatic-clasica-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: ''
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 4GEHHT1DEc2ye0UmMskm8g
-  nombre: Gane Premios de Credomatic Dorada American Express
-  slug: gane-premios-de-credomatic-dorada-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
-    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
-    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 2AGgizcxpmOuiQuEyWoYK6
-  nombre: Puntos Credomatic Dorada Mastercard
-  slug: puntos-credomatic-dorada-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "\n3 Puntos por cada $1 en Supermercados \n2 Puntos por
-    cada $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000
-    Puntos \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 3xtwzMOtP26ogqgmqWEuQ2
-  nombre: Puntos Credomatic Platino Visa
-  slug: puntos-credomatic-platino-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: Hasta 3 Puntos por cada $1 de compra
-  beneficiosGenerales: |
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 2UOl7WwE64MqQu8AwiwEa4
-  nombre: CashBack de Credomatic Clásica Visa
-  slug: cashback-de-credomatic-clasica-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: ''
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 7EcU3GlhugiKyYUecGMsgO
-  nombre: La Tarjeta Platinum de American Express (GRCC)
-  slug: la-tarjeta-platinum-de-american-express-grcc
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Millas
-  - Otros Beneficios
-  breveDescripcion: Con esta tarjeta puede disfrutar de todos los beneficios de Membership
-    Rewards®, como trasladar puntos a socios internacionales, o redimirlos en viajescredomatic.com.
-    Es libre de anualidad por administración de cuenta.
-  beneficiosGenerales: |-
-    Acumulación de 1 milla por dólar
-    Traslados de puntos a socios internacionales
-    Delta SkyMiles®
-    SPG Starwood Preferred Guest®
-    LifeMiles®
-    Iberia Plus ®
-    Hilton HHonors®
-  modalidadDeAcumulacion: |-
-    15.000 Puntos Membership Rewards® Mensuales
-    Máximo 180.000 puntos Membership Rewards®
-    No hay mínimo de redención
-  otrosBeneficios: |-
-    Traslado de puntos a convenios con socios comerciales
-    Acceso a sala Santamaría VIP
-    Servicio concierge Travel & Living
-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/276
-- sys:
-    id: 5LlEn5wb4cMCaUKY8o2Uq0
-  nombre: Gane Premios de Credomatic Dorada Visa
-  slug: gane-premios-de-credomatic-dorada-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
-    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
-    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: tfk3JOAGYKi8CoIoKIgoI
-  nombre: Gane Premios de Credomatic Platino Mastercard
-  slug: gane-premios-de-credomatic-platino-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "\"Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta
-    66 meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para
-    realizar su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 1Xp2aIFBkkOmmE0GuOswag
-  nombre: CashBack de Credomatic Platino American Express
-  slug: cashback-de-credomatic-platino-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: ''
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 1LDJjUFVWcEwyqgEicwKk2
-  nombre: Gane Premios de Credomatic Clásica American Express
-  slug: gane-premios-de-credomatic-clasica-american-express
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
-    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
-    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 5PlaMeORIAKCMMiQKQGm0i
-  nombre: CashBack de Credomatic Dorada Mastercard
-  slug: cashback-de-credomatic-dorada-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje ¢15.000 CashBack
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 53vd5wXk0McGwC2ugUgcmm
-  nombre: CashBack de Credomatic Dorada Visa
-  slug: cashback-de-credomatic-dorada-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: ''
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
+      id: FtSlHGG3Ekws2MO08cA2O
+    titulo: Platino
+    imagen:
+      title: tarjeta the platinum card
+      url: "//images.contentful.com/9cds0lha1plv/2w3rb7TwMMeoEEoy8aE8yg/65d6e9a9b9ac521ed63304b822056aab/tarjeta_the_platinum_card.jpg"
+    nivel:
+      sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+    principal: true
 - sys:
     id: 5NwBFECd5SgaIqm6mOUm6E
   nombre: CashBack Premium de Credomatic
   slug: cashback-premium-de-credomatic
-  marca:
-    sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
   categoria:
     sys:
+      id: 4w5hEC3eF2yUouaecIIkSs
+    titulo: Cashback
+    slug: cashback
+  nivel:
+  - sys:
       id: 4C5NkGks8EcKSacGgOAwA4
-  beneficio:
-  - Cashback
+    titulo: Premium
+    identificador: premium
+  marcas:
+  - sys:
+      id: 7N0sWwZT5CgyeWgck6OMuG
+    titulo: American Express
+  beneficios:
+  - sys:
+      id: 5buA1cIbRY440YeWUKM4ss
+    titulo: 5% de CashBack en Supermecados, Restaurantes, Farmacias & Comidas Rápidas
+    destacado: true
+  - sys:
+      id: 60IXE2zQ3KSMoGiM8EWwaM
+    titulo: 2% de CashBack en Gasolineras
+    destacado: true
+  - sys:
+      id: 6G1tcsHSKsceq8aA2G0weU
+    titulo: 1% de CashBack en los demas Comercios
+    destacado: true
+  - sys:
+      id: 6iix99TFE4kkUYAC424Uuc
+    titulo: Acceso a la Sala VIP del Juan Santamaría
+    destacado: true
+    exclusivo: true
+    nivel:
+    - sys:
+        id: 3Pc97dzJBKuc60Ei62kOoM
+      titulo: Platino
+      identificador: platino
+  - sys:
+      id: 1hjm1RLGc6siOQSuqOyw0e
+    titulo: Acceso a servicio Concierge Travel & Living
+    destacado: true
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
+  - sys:
+      id: 3AkUON8TdYoYa64WkgCKiM
+    titulo: Servicio Personalizado & Preferencias en Sucursales BAC Credomatic
+    destacado: true
+    marca:
+    - sys:
+        id: 7N0sWwZT5CgyeWgck6OMuG
+      titulo: American Express
+    nivel:
+    - sys:
+        id: 430PSmMK4MWqgG84gywwwS
+      titulo: Black
+      identificador: black
   breveDescripcion: "CashBack Premium le brinda la distinción que esta buscando a
     la vez que le brinda el beneficio de retorno de efectivo por las compras realizadas
     tanto dentro como fuera del país. Con porcentajes de devolución que van desde
@@ -1054,24 +3224,7 @@ tarjetas:
     efectivo o utilizarlos en Credomatic Turismo.\n\n__¿Para quién es?__\nTarjetahabientes
     a quienes le gusta comprar en forma segura y práctica,  y acumular dinero por
     las compras realizadas."
-  principalBeneficio: 5% de CashBack en Supermecados, Restaurantes, Farmacias & Comidas
-    Rápidas, 2% de CashBack en Gasolineras, 1% de CashBack en los demas Comercios
-  beneficiosGenerales: |-
-    5% de CashBack en Supermecados, Restaurantes, Farmacias & Comidas Rápidas
-    2% de CashBack en Gasolineras
-    1% de CashBack en los demas Comercios
-    Ingreso a Sala VIP Juan Santamaría
-    Acceso a servicio Concierge Travel & Living
-    Servicio Personalizado & Preferencias en Sucursales BAC Credomatic
   modalidadDeAcumulacion: Máximo ¢1.500.000 de CashBack Anuales
-  otrosBeneficios: |
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
   uso:
   - Compras
   - Compras online
@@ -1086,315 +3239,249 @@ tarjetas:
   - Constancia Salarial o colilla del CCSS
   - 'Trabajadores independientes: CPA'
   form: https://www.baccredomatic.com/es-cr/form/2191
+  imagenes:
+    sys:
+      id: 4sXes0gamIaiOeCSOkg0g6
+    titulo: Premium
+    imagen:
+      title: tarjeta cashback premium
+      url: "//images.contentful.com/9cds0lha1plv/WevD4leywoeMyCIKioKaO/04d9bba858c109f435edb994258bde89/tarjeta_cashback_premium.jpg"
+    nivel:
+      sys:
+        id: 4C5NkGks8EcKSacGgOAwA4
+      titulo: Premium
+      identificador: premium
+    principal: true
+imagen:
 - sys:
-    id: 7hh3592hpKaiSguCwqMOKk
-  nombre: Gane Premios de Credomatic Clásica Visa
-  slug: gane-premios-de-credomatic-clasica-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: Hasta 3 millas por cada $1 en supermercados
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta 66
-    meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para realizar
-    su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 2gVjmzs7sssyWgYw64AuKI
-  nombre: Puntos Credomatic Clásica Visa
-  slug: puntos-credomatic-clasica-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 22g0QnLEJWOumUoCkS2Cgs
-  nombre: CashBack de Credomatic Platino Visa
-  slug: cashback-de-credomatic-platino-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
+    id: 5KHzlZs5BSsYkSSGK8OSsc
+  titulo: Platino
+  imagen:
+    title: tarjeta amex platinum
+    url: "//images.contentful.com/9cds0lha1plv/6eh7cf81GMsQMAwK8e2gWe/5ed194285b5e1faf5865dedf1241cc7d/tarjeta_amex_platinum.jpg"
+  nivel:
     sys:
       id: 3Pc97dzJBKuc60Ei62kOoM
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: ''
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
+    titulo: Platino
+    identificador: platino
+  principal: true
 - sys:
-    id: tzr25qpB604eOSO6IU0Ek
-  nombre: Gane Premios de Credomatic Clásica Mastercard
-  slug: gane-premios-de-credomatic-clasica-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
+    id: 3ie6KNY2acC8Yy2s2EM86E
+  titulo: Clásica
+  imagen:
+    title: tarjeta pricesmart clasica
+    url: "//images.contentful.com/9cds0lha1plv/3mwdcPzGqAuc4cS6O6wCiK/c6f113d17b81683c15cf7f5db33c25cd/tarjeta_pricesmart_clasica.jpg"
+  nivel:
     sys:
       id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Puntos
-  - Descuentos
-  breveDescripcion: "Esta tarjeta le ofrece acumulación de millas Gane Premio con
-    múltiples beneficios, hasta 3 Millas por Dolar de consumo dependiendo de la industria.
-    Los cuales puede redimirlas por boletos aéreos en viajescredomatic.com, utilizarlas
-    para compras en comercios o trasladarlas a su estado de cuenta \n\n¡Tus compras
-    te premian! Acumulá millas canjeables por premios y regalos en más de 600 puntos
-    de venta.\n__¿Para quién es?__\nPara quienes quieren contar con diversas opciones
-    en la redención de sus millas.\n"
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: "3 Millas por cada $1 en Supermercados \n2 Millas por cada
-    $1 Farmacia\n1 Millas por cada $1 en los demás comercios"
-  modalidadDeAcumulacion: |-
-    Máximo: 25.000 Millas Anuales
-    Mínimo 1.000 Millas Anuales
-  otrosBeneficios: "\"Pagos en Sucursales de BAC Credomatic & Red de Pagos\nHasta
-    66 meses de financiamiento.\nHasta 25 días posterior a su fecha de corte para
-    realizar su pago.\nAcceso a las promociones.\nPosibilidad de realizar Extrafinanciamientos
-    y compras en TASA CERO sin interes.\nPosibilidad de pagar su tarjeta en línea
-    por medio del sistema SINPE.\nServicios en línea 24 horas por medio de baccredomatic.com
-    & a la Central Telefónica.\"\t\t"
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
+    titulo: Clásica
+    identificador: clasica
+  principal: true
 - sys:
-    id: d3B292hzoI0g8iiKy4EOA
-  nombre: Puntos Credomatic Clásica Dorada Express
-  slug: puntos-credomatic-clasica-dorada-express
-  marca:
+    id: FtSlHGG3Ekws2MO08cA2O
+  titulo: Platino
+  imagen:
+    title: tarjeta the platinum card
+    url: "//images.contentful.com/9cds0lha1plv/2w3rb7TwMMeoEEoy8aE8yg/65d6e9a9b9ac521ed63304b822056aab/tarjeta_the_platinum_card.jpg"
+  nivel:
     sys:
-      id: 7N0sWwZT5CgyeWgck6OMuG
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: Hasta 3 puntos por $1 de compra
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  principal: true
 - sys:
-    id: 5dFPKNJCmQkqEowi4YwMay
-  nombre: Puntos Credomatic Dorada Visa
-  slug: puntos-credomatic-dorada-visa
-  marca:
-    sys:
-      id: na7nmhJhlYCocu26OImK8
-  categoria:
-    sys:
-      id: ETVzYxHLygSOK6OiwS8IU
-  beneficio:
-  - Puntos
-  breveDescripcion: 'Tarjeta que le permite acumular Puntos Credomatic por cada compras
-    y redimirlos en diversos comercios afiliados al programa. '
-  principalBeneficio: Hasta 3 puntos por cada $1 de compra
-  beneficiosGenerales: |-
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: "3 Puntos por cada $1 en Supermercados \n2 Puntos por cada
-    $1 Farmacia\n1 Punto por cada $1 en los demás comercios\n\n35.000 - 75.000 Puntos
-    \nVencimiento 24 meses moviles"
-  otrosBeneficios: ''
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  - 'Trabajadores independientes: CPA'
-  form: https://www.baccredomatic.com/es-cr/form/2191
-- sys:
-    id: 25PCe0Z9Q8UOEAe2gEW0Cc
-  nombre: CashBack de Credomatic Clásica Mastercard
-  slug: cashback-de-credomatic-clasica-mastercard
-  marca:
-    sys:
-      id: 2WeIGwmz8cEym8eaIOwEgU
-  categoria:
+    id: oD81oBPmpwA8ayGsICkc
+  titulo: Clásica
+  imagen:
+    title: tarjeta cashback clasica
+    url: "//images.contentful.com/9cds0lha1plv/3Pn43p0YgMqAOO26ECAYkE/ae8e0f4f17a5af45c30976c139009b66/tarjeta_cashback_clasica.jpg"
+  nivel:
     sys:
       id: Y59ZhDeJSoCW2yeM6oOU8
-  beneficio:
-  - Cashback
-  breveDescripcion: CashBack es un programa de lealtad que brinda el beneficio de
-    retorno de efectivo por las compras realizadas tanto dentro como fuera del país.
-    Con porcentajes de devolución que van desde 1% hasta 17% dependiendo del comercio.
-  principalBeneficio: 2x1 en Cinepolis (Martes, Jueves & Viernes)
-  beneficiosGenerales: |-
-    Acceso a Preventa en Eventos Credomatic
-    Pagos en Sucursales de BAC Credomatic & Red de Pagos
-    Hasta 66 meses de financiamiento.
-    Hasta 25 días posterior a su fecha de corte para realizar su pago.
-    Acceso a las promociones.
-    Posibilidad de realizar Extrafinanciamientos y compras en TASA CERO sin interes & Mini Cuotas.
-    Posibilidad de pagar su tarjeta en línea por medio del sistema SINPE.
-    Servicios en línea 24 horas por medio de baccredomatic.com & a la Central Telefónica.
-  modalidadDeAcumulacion: |-
-    Devolución diferenciada de 17%, 12%, 10%, 7%, 5%, 4%, 3%, 2%, 1% dependiendo del comercio.
-
-    Máximo de acumulación anual ¢250.000 CashBack
-    Mínimo de canje anual ¢15.000 Cashback
-  uso:
-  - Compras
-  - Compras online
-  - Avance de efectivo
-  - Compra de cartera
-  tipoDeCliente: Ambos
-  cargoAdministrativo: '700'
-  requisitos:
-  - Mayor de 21 años.
-  - Antigüedad laboral mínima de 3 meses.
-  - Copia de la cédula de identidad vigente.
-  - Constancia Salarial o colilla del CCSS
-  form: https://www.baccredomatic.com/es-cr/form/2191
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: 58QIlfGNTG4A4OW4aIW8Mi
+  titulo: Clásica
+  imagen:
+    title: tarjeta puntos clasica amex
+    url: "//images.contentful.com/9cds0lha1plv/3GC9AXQQSkcaYweE40cgig/b72ccfacee34c88e82248569e1c1eff1/tarjeta_puntos_clasica_amex.jpg"
+  nivel:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: 2kaX5OxKYUyi6oI8iY2aK0
+  titulo: Clásica
+  imagen:
+    title: tarjeta megasuper clasica
+    url: "//images.contentful.com/9cds0lha1plv/5LzdnTNLhKIooAsey8qQGQ/e5110e4c04aff07822b09c3d3c44ec23/tarjeta_megasuper_clasica.jpg"
+  nivel:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: 4sXes0gamIaiOeCSOkg0g6
+  titulo: Premium
+  imagen:
+    title: tarjeta cashback premium
+    url: "//images.contentful.com/9cds0lha1plv/WevD4leywoeMyCIKioKaO/04d9bba858c109f435edb994258bde89/tarjeta_cashback_premium.jpg"
+  nivel:
+    sys:
+      id: 4C5NkGks8EcKSacGgOAwA4
+    titulo: Premium
+    identificador: premium
+  principal: true
+- sys:
+    id: WknctgPJqUA404CoGMoII
+  titulo: Clásica
+  imagen:
+    title: tarjeta citymall clasica
+    url: "//images.contentful.com/9cds0lha1plv/eGjV4Z8WtyYmcyASIAEym/70dcd061f9caa15a7665d77decbcc960/tarjeta_citymall_clasica.jpg"
+  nivel:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: 5oDWWvDl6gAQciMgq44ikq
+  titulo: Elite Unbranded
+  imagen:
+    title: tarjeta lifemiles elite unbranded
+    url: "//images.contentful.com/9cds0lha1plv/30mkI081VSkQoKs6CSkYGq/2085bff813d3e28645450a93334fa056/tarjeta_lifemiles_elite_unbranded.jpg"
+  nivel:
+    sys:
+      id: 2fFoThDLqEieckIi4KEqYu
+    titulo: Elite
+    identificador: elite
+  principal: true
+- sys:
+    id: 12LRRFFgbSgeGYKEk2SkSM
+  titulo: Clásica
+  imagen:
+    title: tarjeta walmart clasica
+    url: "//images.contentful.com/9cds0lha1plv/vmd9OqOFhIO02kiAAug6G/2436d7cfb6b011006964f8fe17665448/tarjeta_walmart_clasica.jpg"
+  nivel:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: DDBR3I5RXEMqgGMc2YEGu
+  titulo: Prestige
+  imagen:
+    title: tarjeta aa prestige
+    url: "//images.contentful.com/9cds0lha1plv/VKLyPbRN6wsyoQauoyMkU/bec87d5167b6706b6f45c4d484f44e98/tarjeta_aa_prestige.jpg"
+  nivel:
+    sys:
+      id: 63ittkXosgOwuC2U8GsKCq
+    titulo: Prestige
+    identificador: prestige
+  principal: true
+- sys:
+    id: 2WZxH4uFCUWmaqCQyE4yuU
+  titulo: Black
+  imagen:
+    title: tarjeta millasplus black
+    url: "//images.contentful.com/9cds0lha1plv/1fPY0N35PgGoewg0QmGQO6/c6f113d17b81683c15cf7f5db33c25cd/tarjeta_millasplus_black.jpg"
+  nivel:
+    sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+  principal: true
+- sys:
+    id: 71R9i702PumUYc2wiAmmK4
+  titulo: Clásica
+  imagen:
+    title: tarjeta club nacion
+    url: "//images.contentful.com/9cds0lha1plv/3BySd9CTpS6AKGqM0kSGCG/0327215bc8ffdbbcc3b1e2de274f2f45/tarjeta_club_nacion.jpg"
+  nivel:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: 6UR5aO8Ksw0wiA0K2OsOmi
+  titulo: Infinite
+  imagen:
+    title: tarjeta connectmiles infinite
+    url: "//images.contentful.com/9cds0lha1plv/4CclzlZfEkkGAEYSouEIwC/a52e3248c86897d4f9e41e0ace8f651e/tarjeta_connectmiles_infinite.jpg"
+  nivel:
+    sys:
+      id: 5RLYhxU4NOIICgIQGGc8kg
+    titulo: Infinite
+    identificador: infinite
+  principal: true
+- sys:
+    id: 5uQEb8lxq8kQcogaWOWkuY
+  titulo: Black
+  imagen:
+    title: tarjeta mastecard black nueva
+    url: "//images.contentful.com/9cds0lha1plv/7KkkZxR0ByYykKusoe2u4/707768be118e9d06911606d3fb09441a/tarjeta_mastecard_black_nueva.jpg"
+  nivel:
+    sys:
+      id: 430PSmMK4MWqgG84gywwwS
+    titulo: Black
+    identificador: black
+  principal: true
+- sys:
+    id: LydU0XQsYSayMEEsAEKC8
+  titulo: Clásica
+  imagen:
+    title: tarjeta incae
+    url: "//images.contentful.com/9cds0lha1plv/6s9EpFIg8wYm24kGO88wqE/9aba56915ac7461b4884508f15ebdf4a/tarjeta_incae.jpg"
+  nivel:
+    sys:
+      id: Y59ZhDeJSoCW2yeM6oOU8
+    titulo: Clásica
+    identificador: clasica
+  principal: true
+- sys:
+    id: 5lUC1UbVxSa4cMUyU0wsOs
+  titulo: Platino
+  imagen:
+    title: tarjeta ganepremios clasica
+    url: "//images.contentful.com/9cds0lha1plv/6oxkvU825yOkkAGWau822s/ccbc980d421890063fd77ca8cf649534/tarjeta_ganepremios_clasica.jpg"
+  nivel:
+    sys:
+      id: 3Pc97dzJBKuc60Ei62kOoM
+    titulo: Platino
+    identificador: platino
+  principal: true
+categorias:
+- sys:
+    id: 67E1yEOv3ay2oswi2oUi2Y
+  titulo: Otros
+  slug: otros
+- sys:
+    id: 1awDSOjpZwAIkkicmEY0sY
+  titulo: Estilo de vida
+  slug: estilo-de-vida
+- sys:
+    id: 4w5hEC3eF2yUouaecIIkSs
+  titulo: Cashback
+  slug: cashback
+- sys:
+    id: 485UdHpJpSWqO8qeIKIGCM
+  titulo: Puntos y Recompensas
+  slug: puntos
+- sys:
+    id: 2D9Yw75xfKUKG6CsaEcU42
+  titulo: Viajes
+  slug: viajes
+- sys:
+    id: 66YoLR9dFCm206ICuWYgyM
+  titulo: Supermercados
+  slug: supermercados
 marca:
 - sys:
     id: 7N0sWwZT5CgyeWgck6OMuG
@@ -1405,24 +3492,3 @@ marca:
 - sys:
     id: na7nmhJhlYCocu26OImK8
   titulo: Visa
-categoria:
-- sys:
-    id: 4C5NkGks8EcKSacGgOAwA4
-  titulo: Premium
-  identificador: premium
-- sys:
-    id: 430PSmMK4MWqgG84gywwwS
-  titulo: Black
-  identificador: black
-- sys:
-    id: 3Pc97dzJBKuc60Ei62kOoM
-  titulo: Platino
-  identificador: platino
-- sys:
-    id: Y59ZhDeJSoCW2yeM6oOU8
-  titulo: Clásica
-  identificador: clasica
-- sys:
-    id: ETVzYxHLygSOK6OiwS8IU
-  titulo: Dorada
-  identificador: dorada

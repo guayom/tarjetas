@@ -4,7 +4,7 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.nombre }}</h1>
+    <h1 class="post-title">{{ page.titulo }}</h1>
   </header>
 
   <div class="post-content">
@@ -13,48 +13,34 @@ layout: default
       <dd><a href="{{ page.form }}" target="_blank">{{ page.form }}</a></dd>
 
       <dt>Marca</dt>
-      {% for marca in site.data.contentful.spaces.tarjetas.marca %}
-        {% if marca.sys.id == page.marca.sys.id %}
-          <dd>{{ marca.titulo }}</dd>
-        {% endif %}
-      {% endfor %}
+      <dd>{{ page.marca }}</dd>
 
       <dt>Categoría</dt>
-      {% for categoria in site.data.contentful.spaces.tarjetas.categoria %}
-        {% if categoria.sys.id == page.categoria.sys.id %}
-          <dd>{{ categoria.titulo }}</dd>
-          {% capture color %}{{ categoria.identificador }}{% endcapture %}
-        {% endif %}
-      {% endfor %}
+      <dd>{{ page.categoria.titulo }}</dd>
 
 
-      <dt>Beneficio</dt>
-      <dd>{{ page.beneficio }}</dd>
+      <dt>Beneficios</dt>
+      <dd>
+        <ul>
+          {% for beneficio in page.beneficios %}
+            <li>{{beneficio.titulo}}</li>
+          {% endfor %}
+        </ul>
+      </dd>
 
       <dt>Breve descripción</dt>
       <dd>{{ page.breveDescripcion }}</dd>
 
-      <dt>Principal Beneficio</dt>
-      <dd>{{ page.principalBeneficio }}</dd>
-
-      <dt>Beneficios Generales</dt>
-      <dd>
-        <ul>
-          {% assign items = page.beneficiosGenerales | newline_to_br | split: '<br />' %}
-          {% for item in items %}<li>{{ item }}</li>{% endfor %}
-        </ul>
-      </dd>
-
       <dt>Modalidad de acumulación</dt>
       <dd>{{ page.modalidadDeAcumulacion }}</dd>
 
-      <dt>Otros Beneficios</dt>
+      <!-- <dt>Otros Beneficios</dt>
       <dd>
         <ul>
           {% assign items = page.otrosBeneficios | newline_to_br | split: '<br />' %}
           {% for item in items %}<li>{{ item }}</li>{% endfor %}
         </ul>
-      </dd>
+      </dd> -->
 
       <dt>Uso</dt>
       <dd>
@@ -85,5 +71,4 @@ layout: default
     </dl>
     {% include intereses.html %}
   </div>
-
 </article>

@@ -1,7 +1,7 @@
 ---
 title: Contactos
 date: 2016-07-14 17:17:00 -06:00
-layout: contactos
+layout: default
 menu: si
 personas:
 - Nombre: Luis

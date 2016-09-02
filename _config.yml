@@ -9,10 +9,3 @@ url: https://tarjetas-credomatic.netlify.com
 github_username: guayom
 markdown: kramdown
 permalink: pretty
-
-#Page Generator
-page_gen:
-  - data: contentful.spaces.tarjetas.tarjetas
-    template: tarjeta
-    name: slug
-    dir: tarjetas
