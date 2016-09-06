@@ -1,3 +1,0 @@
----
-title: Préstamo planilla bac
----

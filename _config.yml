@@ -1,4 +1,3 @@
----
 title: Tarjetas Credomatic
 timezone: America/Guatemala
 
@@ -13,11 +12,11 @@ permalink: pretty
 collections:
     prestamos:
         output: true
+        permalink: /prestamos/:path/
 
 defaults:
   -
     scope:
-      path: ""
       type: "prestamos"
     values:
       layout: "prestamo"

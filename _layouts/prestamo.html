@@ -7,5 +7,32 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  {{page.description}}
+  <strong>Página:</strong><br/><a href="{{page.link}}">{{page.link}}</a><br/>
+  <strong>Form:</strong><br/><a href="{{page.form}}">{{page.form}}</a><br/>
+  <br/>
+
+  <strong>Descripción:</strong><br/>
+  {{content}}
+  <br/>
+  <br/>
+  <strong>Beneficios:</strong><br/>
+  <ul>
+    {% for benefit in page.benefits %}
+      <li>{{benefit}}</li>
+    {% endfor %}
+  </ul>
+  <strong>Condiciones:</strong><br/>
+  <ul>
+    {% for condition in page.conditions %}
+      <li>{{condition}}</li>
+    {% endfor %}
+  </ul>
+  <strong>Requisitos:</strong><br/>
+  <ul>
+    {% for requirement in page.requirements %}
+      <li>{{requirement}}</li>
+    {% endfor %}
+  </ul>
+
+
 </article>

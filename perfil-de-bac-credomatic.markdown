@@ -1,7 +1,7 @@
 ---
 title: Perfil de Bac Credomatic
 date: 2016-07-14 17:14:00 -06:00
-layout: page
+layout: default
 menu: si
 ---
 
